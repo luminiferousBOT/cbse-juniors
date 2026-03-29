@@ -3097,6 +3097,2261 @@ const cbseData = {
                     }
                 ]
             }
+        },
+        "geography": {
+            "title": "The Earth: Our Habitat",
+            "chapters": [
+                {
+                    "id": "ch1",
+                    "title": "1. The Earth in the Solar System"
+                },
+                {
+                    "id": "ch2",
+                    "title": "2. Globe: Latitudes and Longitudes"
+                },
+                {
+                    "id": "ch3",
+                    "title": "3. Motions of the Earth"
+                },
+                {
+                    "id": "ch4",
+                    "title": "4. Maps"
+                },
+                {
+                    "id": "ch5",
+                    "title": "5. Major Domains of the Earth"
+                },
+                {
+                    "id": "ch6",
+                    "title": "6. Major Landforms of the Earth"
+                },
+                {
+                    "id": "ch7",
+                    "title": "7. Our Country - India"
+                },
+                {
+                    "id": "ch8",
+                    "title": "8. India: Climate, Vegetation and Wildlife"
+                }
+            ],
+            "mcqs": {
+                "ch1": [
+                    {
+                        "question": "What is meant by the 'Full Moon' night?",
+                        "options": [
+                            "Poornima",
+                            "Amavasya",
+                            "Eclipse",
+                            "Crescent"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Full Moon night, when the moon is completely visible, is called Poornima."
+                    },
+                    {
+                        "question": "What is the 'New Moon' night called?",
+                        "options": [
+                            "Poornima",
+                            "Amavasya",
+                            "Eclipse",
+                            "Blue Moon"
+                        ],
+                        "answer": 1,
+                        "explanation": "A fortnight after Poornima, you cannot see the moon at all. It is a New Moon night or Amavasya."
+                    },
+                    {
+                        "question": "The sun, the moon and all those objects shining in the night sky are called:",
+                        "options": [
+                            "Planets",
+                            "Galaxies",
+                            "Celestial bodies",
+                            "Constellations"
+                        ],
+                        "answer": 2,
+                        "explanation": "All objects shining in the night sky, including the sun and moon, are known as celestial bodies."
+                    },
+                    {
+                        "question": "Some celestial bodies are very big and hot. They are made up of gases and have their own heat and light. These are called:",
+                        "options": [
+                            "Planets",
+                            "Satellites",
+                            "Asteroids",
+                            "Stars"
+                        ],
+                        "answer": 3,
+                        "explanation": "Stars are huge, hot bodies made up of gases that emit their own light, like our Sun."
+                    },
+                    {
+                        "question": "Various patterns formed by different groups of stars are called:",
+                        "options": [
+                            "Planets",
+                            "Constellations",
+                            "Comets",
+                            "Meteors"
+                        ],
+                        "answer": 1,
+                        "explanation": "Patterns formed by groups of stars are known as constellations. Ursa Major is one example."
+                    },
+                    {
+                        "question": "One of the most easily recognizable constellations is the:",
+                        "options": [
+                            "Andromeda",
+                            "Orion",
+                            "Saptarishi",
+                            "Scorpio"
+                        ],
+                        "answer": 2,
+                        "explanation": "Saptarishi is a group of seven stars that forms a part of Ursa Major Constellation."
+                    },
+                    {
+                        "question": "In ancient times, people used to determine directions during the night with the help of stars. The North star indicates the:",
+                        "options": [
+                            "East direction",
+                            "West direction",
+                            "North direction",
+                            "South direction"
+                        ],
+                        "answer": 2,
+                        "explanation": "The North star, also known as the Pole Star, always remains in the same position and indicates the North direction."
+                    },
+                    {
+                        "question": "Which of the following celestial bodies do NOT have their own heat and light, and are lit by the light of stars?",
+                        "options": [
+                            "Stars",
+                            "Planets",
+                            "Galaxies",
+                            "Sun"
+                        ],
+                        "answer": 1,
+                        "explanation": "Planets do not have their own heat and light. The word planet comes from Greek word meaning wanderers."
+                    },
+                    {
+                        "question": "The Earth on which we live is a:",
+                        "options": [
+                            "Star",
+                            "Galaxy",
+                            "Planet",
+                            "Satellite"
+                        ],
+                        "answer": 2,
+                        "explanation": "The earth is a planet. It gets all its heat and light from the sun, which is our nearest star."
+                    },
+                    {
+                        "question": "The moon that we see in the sky is a:",
+                        "options": [
+                            "Star",
+                            "Planet",
+                            "Satellite",
+                            "Comet"
+                        ],
+                        "answer": 2,
+                        "explanation": "The moon is a natural satellite of the Earth and moves around it."
+                    },
+                    {
+                        "question": "The solar system consists of the sun, eight planets, satellites, and some other celestial bodies known as:",
+                        "options": [
+                            "Asteroids and Meteoroids",
+                            "Galaxies and Universes",
+                            "Stars and Constellations",
+                            "Black holes and Quasars"
+                        ],
+                        "answer": 0,
+                        "explanation": "The solar family includes the sun, planets, satellites, asteroids, and meteoroids."
+                    },
+                    {
+                        "question": "Which is the central body of the solar system?",
+                        "options": [
+                            "Earth",
+                            "Moon",
+                            "Sun",
+                            "Mars"
+                        ],
+                        "answer": 2,
+                        "explanation": "The sun is in the centre of the solar system. It is huge and made up of extremely hot gases."
+                    },
+                    {
+                        "question": "The pulling force of the Sun that binds the solar system is called:",
+                        "options": [
+                            "Magnetic force",
+                            "Frictional force",
+                            "Gravitational pull",
+                            "Nuclear force"
+                        ],
+                        "answer": 2,
+                        "explanation": "The sun provides the pulling force (gravity) that binds the solar system."
+                    },
+                    {
+                        "question": "The sun is about ________ million kilometres away from the earth.",
+                        "options": [
+                            "100",
+                            "150",
+                            "200",
+                            "250"
+                        ],
+                        "answer": 1,
+                        "explanation": "The sun is approximately 150 million km away from the earth."
+                    },
+                    {
+                        "question": "What is the correct order of planets according to their distance from the sun?",
+                        "options": [
+                            "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
+                            "Venus, Earth, Mercury, Mars, Jupiter, Saturn, Uranus, Neptune",
+                            "Earth, Venus, Mars, Mercury, Jupiter, Saturn, Uranus, Neptune",
+                            "Jupiter, Saturn, Uranus, Neptune, Mercury, Venus, Earth, Mars"
+                        ],
+                        "answer": 0,
+                        "explanation": "The correct sequence is Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune (Remember: My Very Efficient Mother Just Served Us Nuts)."
+                    },
+                    {
+                        "question": "All the eight planets of the solar system move around the sun in fixed outward elongated paths. These paths are called:",
+                        "options": [
+                            "Circles",
+                            "Orbits",
+                            "Axes",
+                            "Equators"
+                        ],
+                        "answer": 1,
+                        "explanation": "The elongated paths in which planets move around the sun are known as orbits."
+                    },
+                    {
+                        "question": "Which planet is considered as 'Earth's-twin'?",
+                        "options": [
+                            "Mars",
+                            "Jupiter",
+                            "Venus",
+                            "Neptune"
+                        ],
+                        "answer": 2,
+                        "explanation": "Venus is considered Earth's twin because its size and shape are very much similar to that of the earth."
+                    },
+                    {
+                        "question": "Till August 2006, which celestial body was also considered a planet but is now called a 'dwarf planet'?",
+                        "options": [
+                            "Ceres",
+                            "Pluto",
+                            "Eris",
+                            "Makemake"
+                        ],
+                        "answer": 1,
+                        "explanation": "Pluto was demoted to dwarf planet status by the International Astronomical Union in 2006."
+                    },
+                    {
+                        "question": "The Earth is the ________ nearest planet to the sun.",
+                        "options": [
+                            "First",
+                            "Second",
+                            "Third",
+                            "Fourth"
+                        ],
+                        "answer": 2,
+                        "explanation": "Earth is the third planet from the sun after Mercury and Venus."
+                    },
+                    {
+                        "question": "In size, the earth is the ________ largest planet.",
+                        "options": [
+                            "Third",
+                            "Fourth",
+                            "Fifth",
+                            "Sixth"
+                        ],
+                        "answer": 2,
+                        "explanation": "The earth is the fifth largest planet in the solar system."
+                    },
+                    {
+                        "question": "The shape of the Earth is slightly flattened at the poles. Therefore, its shape is described as a:",
+                        "options": [
+                            "Sphere",
+                            "Geoid",
+                            "Circle",
+                            "Oval"
+                        ],
+                        "answer": 1,
+                        "explanation": "Geoid means an earth-like shape, slightly flattened at the poles and bulging at the equator."
+                    },
+                    {
+                        "question": "From outer space, the earth appears blue because its two-thirds surface is covered by water. It is, therefore, called a:",
+                        "options": [
+                            "Red planet",
+                            "Green planet",
+                            "Blue planet",
+                            "White planet"
+                        ],
+                        "answer": 2,
+                        "explanation": "Because 71% of Earth's surface is covered with water, it looks blue from space and is called a blue planet."
+                    },
+                    {
+                        "question": "The moon is about ________ kilometres away from the earth.",
+                        "options": [
+                            "3,84,400",
+                            "1,50,000",
+                            "5,00,000",
+                            "10,000"
+                        ],
+                        "answer": 0,
+                        "explanation": "The moon is at a distance of about 3,84,400 km from the earth."
+                    },
+                    {
+                        "question": "How long does it take for the moon to move around the earth?",
+                        "options": [
+                            "About 27 days",
+                            "About 30 days",
+                            "About 365 days",
+                            "About 24 hours"
+                        ],
+                        "answer": 0,
+                        "explanation": "The moon revolves around the earth in about 27 days. It takes exactly the same time to complete one spin."
+                    },
+                    {
+                        "question": "Numerous tiny bodies which also move around the sun and are found between the orbits of Mars and Jupiter are called:",
+                        "options": [
+                            "Meteoroids",
+                            "Asteroids",
+                            "Comets",
+                            "Satellites"
+                        ],
+                        "answer": 1,
+                        "explanation": "Asteroids are tiny rocky bodies found between the orbits of Mars and Jupiter."
+                    }
+                ],
+                "ch2": [
+                    {
+                        "question": "A true model (miniature form) of the earth is known as a:",
+                        "options": [
+                            "Map",
+                            "Globe",
+                            "Photograph",
+                            "Sketch"
+                        ],
+                        "answer": 1,
+                        "explanation": "A globe is a true model (miniature form) of the earth. Globes vary in size and type."
+                    },
+                    {
+                        "question": "A needle is fixed through the globe in a tilted manner, which is called its:",
+                        "options": [
+                            "Equator",
+                            "Orbit",
+                            "Axis",
+                            "Pole"
+                        ],
+                        "answer": 2,
+                        "explanation": "The imaginary line acting as the tilted needle through the globe is called its axis."
+                    },
+                    {
+                        "question": "The two points on the globe through which the needle passes are:",
+                        "options": [
+                            "East and West poles",
+                            "North Pole and South Pole",
+                            "Equator and Prime Meridian",
+                            "Tropic of Cancer and Tropic of Capricorn"
+                        ],
+                        "answer": 1,
+                        "explanation": "The axis touches the North Pole at the top and the South Pole at the bottom."
+                    },
+                    {
+                        "question": "An imaginary line running on the globe divides it into two equal parts. This line is known as the:",
+                        "options": [
+                            "Axis",
+                            "Prime Meridian",
+                            "Equator",
+                            "Tropic of Cancer"
+                        ],
+                        "answer": 2,
+                        "explanation": "The equator is the imaginary horizontal line that divides the earth into equal northern and southern hemispheres."
+                    },
+                    {
+                        "question": "The northern half of the earth is known as the:",
+                        "options": [
+                            "Southern Hemisphere",
+                            "Northern Hemisphere",
+                            "Eastern Hemisphere",
+                            "Western Hemisphere"
+                        ],
+                        "answer": 1,
+                        "explanation": "The part north of the equator is the Northern Hemisphere."
+                    },
+                    {
+                        "question": "All parallel circles from the equator up to the poles are called:",
+                        "options": [
+                            "Meridians of longitude",
+                            "Parallels of latitudes",
+                            "Time zones",
+                            "Grid lines"
+                        ],
+                        "answer": 1,
+                        "explanation": "Since they are parallel to the equator, these lines of latitude are called parallels of latitudes."
+                    },
+                    {
+                        "question": "The equator represents the ________ degree latitude.",
+                        "options": [
+                            "Zero",
+                            "Ninety",
+                            "One hundred eighty",
+                            "Sixty"
+                        ],
+                        "answer": 0,
+                        "explanation": "The equator is the starting line for measuring latitude, so it is 0 degrees."
+                    },
+                    {
+                        "question": "The North Pole is represented by which degree of latitude?",
+                        "options": [
+                            "0° N",
+                            "23.5° N",
+                            "66.5° N",
+                            "90° N"
+                        ],
+                        "answer": 3,
+                        "explanation": "The distance from the equator to either of the poles is one-fourth of a circle (360 degrees), so one-fourth is 90 degrees."
+                    },
+                    {
+                        "question": "The Tropic of Cancer is located at which latitude?",
+                        "options": [
+                            "23 1/2° N",
+                            "23 1/2° S",
+                            "66 1/2° N",
+                            "66 1/2° S"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Tropic of Cancer is an important parallel of latitude situated at 23.5 degrees North."
+                    },
+                    {
+                        "question": "The Tropic of Capricorn is located in which hemisphere?",
+                        "options": [
+                            "Northern Hemisphere",
+                            "Southern Hemisphere",
+                            "Eastern Hemisphere",
+                            "Western Hemisphere"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Tropic of Capricorn is 23.5 degrees South, locating it in the Southern Hemisphere."
+                    },
+                    {
+                        "question": "The area which receives the maximum heat and lies between the Tropic of Cancer and Tropic of Capricorn is called the:",
+                        "options": [
+                            "Temperate Zone",
+                            "Frigid Zone",
+                            "Torrid Zone",
+                            "Polar Zone"
+                        ],
+                        "answer": 2,
+                        "explanation": "Since the mid-day sun is exactly overhead at least once a year in this area, it receives the maximum heat and is called the Torrid Zone."
+                    },
+                    {
+                        "question": "The areas bounded by the Tropic of Cancer and the Arctic Circle in the Northern Hemisphere have moderate temperatures. They are called:",
+                        "options": [
+                            "Torrid Zones",
+                            "Temperate Zones",
+                            "Frigid Zones",
+                            "Equatorial Zones"
+                        ],
+                        "answer": 1,
+                        "explanation": "The sun never shines overhead beyond the Tropics, resulting in slanting rays and moderate temperatures, defining the Temperate Zones."
+                    },
+                    {
+                        "question": "Areas lying between the Arctic Circle and the North Pole, and the Antarctic Circle and the South Pole are very cold and are called:",
+                        "options": [
+                            "Torrid Zones",
+                            "Temperate Zones",
+                            "Frigid Zones",
+                            "Tropical Zones"
+                        ],
+                        "answer": 2,
+                        "explanation": "In Frigid zones, the sun does not rise much above the horizon, delivering mostly slanting rays with low heat."
+                    },
+                    {
+                        "question": "To fix the position of a place accurately, we need to know something more than the latitude. What are the lines running from the North Pole to the South Pole called?",
+                        "options": [
+                            "Parallels of latitude",
+                            "Meridians of longitude",
+                            "Equatorial lines",
+                            "Tropic lines"
+                        ],
+                        "answer": 1,
+                        "explanation": "These vertical lines of reference are called meridians of longitude."
+                    },
+                    {
+                        "question": "The distance between the meridians of longitude decreases steadily polewards until it becomes ________ at the poles.",
+                        "options": [
+                            "Maximum",
+                            "Zero",
+                            "100 km",
+                            "Equal"
+                        ],
+                        "answer": 1,
+                        "explanation": "At the poles, all the meridians intersect, making the distance between them zero."
+                    },
+                    {
+                        "question": "Unlike parallels of latitude, all meridians are of:",
+                        "options": [
+                            "Varying lengths",
+                            "Equal length",
+                            "Different shapes",
+                            "Unequal spacing at the equator"
+                        ],
+                        "answer": 1,
+                        "explanation": "All meridians are semi-circles of equal length."
+                    },
+                    {
+                        "question": "The central meridian which passes through Greenwich is called the:",
+                        "options": [
+                            "Equator",
+                            "Tropic of Cancer",
+                            "Prime Meridian",
+                            "International Date Line"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Prime Meridian is the 0-degree longitude passing through the British Royal Observatory at Greenwich."
+                    },
+                    {
+                        "question": "The Prime Meridian divides the earth into two equal halves. The eastern half is called the:",
+                        "options": [
+                            "Northern Hemisphere",
+                            "Southern Hemisphere",
+                            "Eastern Hemisphere",
+                            "Western Hemisphere"
+                        ],
+                        "answer": 2,
+                        "explanation": "The earth is split into the Eastern and Western Hemispheres by the Prime Meridian and 180-degree meridian."
+                    },
+                    {
+                        "question": "180° East and 180° West meridians are on the:",
+                        "options": [
+                            "Same line",
+                            "Different lines",
+                            "Equator",
+                            "Poles only"
+                        ],
+                        "answer": 0,
+                        "explanation": "Longitude 180° E and 180° W represent the exact same line, opposite to the Prime Meridian."
+                    },
+                    {
+                        "question": "The network of parallels of latitudes and meridians of longitudes on the globe is known as a:",
+                        "options": [
+                            "Map",
+                            "Graph",
+                            "Grid",
+                            "Chart"
+                        ],
+                        "answer": 2,
+                        "explanation": "A grid allows locating any place on the earth if its latitude and longitude are known."
+                    },
+                    {
+                        "question": "As the earth rotates from west to east, places east of Greenwich will be ________ of Greenwich time.",
+                        "options": [
+                            "Ahead",
+                            "Behind",
+                            "Equal to",
+                            "Unrelated to"
+                        ],
+                        "answer": 0,
+                        "explanation": "Since the earth rotates eastward, eastern locations experience the sun first and thus their time is ahead of Greenwich."
+                    },
+                    {
+                        "question": "The earth rotates 360 degrees in about 24 hours, which means ________ degrees an hour.",
+                        "options": [
+                            "10",
+                            "15",
+                            "20",
+                            "25"
+                        ],
+                        "answer": 1,
+                        "explanation": "360 / 24 = 15. So the earth rotates 15 degrees per hour."
+                    },
+                    {
+                        "question": "When it is 12 noon at Greenwich, the time at 15° East of Greenwich will be:",
+                        "options": [
+                            "11 AM",
+                            "12 Noon",
+                            "1 PM",
+                            "2 PM"
+                        ],
+                        "answer": 2,
+                        "explanation": "Since 15° = 1 hour, and East is ahead, it will be 12 + 1 = 1 PM."
+                    },
+                    {
+                        "question": "In India, the longitude of ________ is treated as the standard meridian (IST).",
+                        "options": [
+                            "68° 7' E",
+                            "97° 25' E",
+                            "82° 30' E",
+                            "88° 30' E"
+                        ],
+                        "answer": 2,
+                        "explanation": "The local time at 82° 30' E longitude is taken as the standard time for the whole country."
+                    },
+                    {
+                        "question": "Indian Standard Time (IST) is how many hours ahead of Greenwich Mean Time (GMT)?",
+                        "options": [
+                            "4 hours 30 minutes",
+                            "5 hours",
+                            "5 hours 30 minutes",
+                            "6 hours"
+                        ],
+                        "answer": 2,
+                        "explanation": "Because India is 82.5° East, the time difference is 82.5 x 4 minutes = 330 minutes, or 5.5 hours."
+                    }
+                ],
+                "ch3": [
+                    {
+                        "question": "The movement of the earth on its axis is known as:",
+                        "options": [
+                            "Rotation",
+                            "Revolution",
+                            "Solstice",
+                            "Equinox"
+                        ],
+                        "answer": 0,
+                        "explanation": "Rotation is the spinning movement of the earth on its axis."
+                    },
+                    {
+                        "question": "The movement of the earth around the sun in a fixed path or orbit is called:",
+                        "options": [
+                            "Rotation",
+                            "Revolution",
+                            "Gravitation",
+                            "Spinning"
+                        ],
+                        "answer": 1,
+                        "explanation": "The movement of the earth around the sun is called revolution."
+                    },
+                    {
+                        "question": "The axis of the earth, which is an imaginary line, makes an angle of ________ with its orbital plane.",
+                        "options": [
+                            "23.5°",
+                            "66.5°",
+                            "90°",
+                            "180°"
+                        ],
+                        "answer": 1,
+                        "explanation": "The axis is tilted and makes an angle of 66.5 degrees with the orbital plane."
+                    },
+                    {
+                        "question": "The circle that divides the day from night on the globe is called the circle of:",
+                        "options": [
+                            "Light",
+                            "Illumination",
+                            "Day and Night",
+                            "Equator"
+                        ],
+                        "answer": 1,
+                        "explanation": "The circle of illumination divides the day from night on the globe."
+                    },
+                    {
+                        "question": "How much time does the earth take to complete one rotation around its axis?",
+                        "options": [
+                            "12 hours",
+                            "24 hours",
+                            "30 days",
+                            "365 days"
+                        ],
+                        "answer": 1,
+                        "explanation": "The earth takes approximately 24 hours to complete one rotation around its axis, which we call an earth-day."
+                    },
+                    {
+                        "question": "What would happen if the earth did not rotate?",
+                        "options": [
+                            "No gravity",
+                            "One half always hot and other always freezing cold",
+                            "Constant rain",
+                            "Nothing"
+                        ],
+                        "answer": 1,
+                        "explanation": "If it didn't rotate, the portion facing the sun would always have day and continuous warmth, while the other side would remain in freezing darkness."
+                    },
+                    {
+                        "question": "How long does it take for the earth to revolve around the sun?",
+                        "options": [
+                            "365 days",
+                            "365 and 1/4 days",
+                            "366 days",
+                            "24 hours"
+                        ],
+                        "answer": 1,
+                        "explanation": "It takes 365¼ days (one year) to revolve around the sun. For convenience, we consider a year as 365 days and ignore the six hours."
+                    },
+                    {
+                        "question": "To make up for the remaining six hours every year, one extra day is added every fourth year. This year has 366 days and is called a:",
+                        "options": [
+                            "Special year",
+                            "Leap year",
+                            "Centi-year",
+                            "Lunar year"
+                        ],
+                        "answer": 1,
+                        "explanation": "The extra day is added to the month of February, making it 29 days, and the year is called a leap year."
+                    },
+                    {
+                        "question": "Throughout its orbit, the earth is inclined in the:",
+                        "options": [
+                            "Same direction",
+                            "Opposite direction",
+                            "Changing direction",
+                            "Perpendicular direction"
+                        ],
+                        "answer": 0,
+                        "explanation": "Throughout its orbit, Earth remains tilted in the same direction."
+                    },
+                    {
+                        "question": "A year is usually divided into these seasons except:",
+                        "options": [
+                            "Summer",
+                            "Winter",
+                            "Spring",
+                            "Monsoon"
+                        ],
+                        "answer": 3,
+                        "explanation": "A standard year in these terms is divided into summer, winter, spring, and autumn seasons."
+                    },
+                    {
+                        "question": "Seasons change due to the change in the position of the earth around the:",
+                        "options": [
+                            "Moon",
+                            "Axis",
+                            "Sun",
+                            "Equator"
+                        ],
+                        "answer": 2,
+                        "explanation": "Changes in seasons are primarily due to the revolution of the earth around the sun and its tilted axis."
+                    },
+                    {
+                        "question": "On 21st June, the Northern Hemisphere is tilted towards the sun, and the rays of the sun fall directly on the:",
+                        "options": [
+                            "Equator",
+                            "Tropic of Cancer",
+                            "Tropic of Capricorn",
+                            "Antarctic Circle"
+                        ],
+                        "answer": 1,
+                        "explanation": "On 21st June, the Northern Hemisphere gets direct sunlight on the Tropic of Cancer."
+                    },
+                    {
+                        "question": "Because of the direct rays on the Tropic of Cancer on 21st June, the areas near the poles receive:",
+                        "options": [
+                            "More heat",
+                            "Less heat",
+                            "Equal heat",
+                            "No heat"
+                        ],
+                        "answer": 1,
+                        "explanation": "Since the sun's rays are slanting near the poles, they receive less heat."
+                    },
+                    {
+                        "question": "On 21st June, the longest day and the shortest night occur in the Northern Hemisphere. This position of the earth is called:",
+                        "options": [
+                            "Winter Solstice",
+                            "Summer Solstice",
+                            "Equinox",
+                            "Leap Day"
+                        ],
+                        "answer": 1,
+                        "explanation": "The summer solstice occurs on 21st June in the Northern Hemisphere."
+                    },
+                    {
+                        "question": "During the summer solstice in the Northern Hemisphere, it is summer in the regions north of the equator and ________ in the Southern Hemisphere.",
+                        "options": [
+                            "Summer",
+                            "Winter",
+                            "Spring",
+                            "Autumn"
+                        ],
+                        "answer": 1,
+                        "explanation": "The conditions are reversed in the Southern Hemisphere, where it is winter with longer nights and shorter days."
+                    },
+                    {
+                        "question": "On 22nd December, the sun's rays fall directly on the Tropic of Capricorn. This position of the earth is called:",
+                        "options": [
+                            "Summer Solstice",
+                            "Winter Solstice",
+                            "Autumn Equinox",
+                            "Spring Equinox"
+                        ],
+                        "answer": 1,
+                        "explanation": "This period is called the Winter Solstice in the Northern Hemisphere (and summer for the Southern Hemisphere)."
+                    },
+                    {
+                        "question": "Australia celebrates Christmas in the ________ season.",
+                        "options": [
+                            "Summer",
+                            "Winter",
+                            "Spring",
+                            "Autumn"
+                        ],
+                        "answer": 0,
+                        "explanation": "Since Australia is in the Southern Hemisphere, it experiences summer during December when Christmas is celebrated."
+                    },
+                    {
+                        "question": "On 21st March and September 23rd, direct rays of the sun fall on the equator. Neither of the poles is tilted towards the sun so the whole earth experiences equal days and equal nights. This is called:",
+                        "options": [
+                            "Solstice",
+                            "Equinox",
+                            "Eclipse",
+                            "Axis"
+                        ],
+                        "answer": 1,
+                        "explanation": "Equinox means equal days and equal nights."
+                    },
+                    {
+                        "question": "On 23rd September, it is ________ season in the Northern Hemisphere.",
+                        "options": [
+                            "Spring",
+                            "Summer",
+                            "Autumn",
+                            "Winter"
+                        ],
+                        "answer": 2,
+                        "explanation": "It is autumn in the Northern Hemisphere and spring in the Southern Hemisphere on 23rd September."
+                    },
+                    {
+                        "question": "On 21st March, it is ________ season in the Northern Hemisphere.",
+                        "options": [
+                            "Spring",
+                            "Autumn",
+                            "Summer",
+                            "Winter"
+                        ],
+                        "answer": 0,
+                        "explanation": "The conditions are exactly opposite to 23rd September. So it's spring in the north."
+                    },
+                    {
+                        "question": "The sun is directly overhead at noon on the equator during:",
+                        "options": [
+                            "Leap Years",
+                            "Solstices",
+                            "Equinoxes",
+                            "Every day"
+                        ],
+                        "answer": 2,
+                        "explanation": "During equinoxes (21 March and 23 September), the sun's rays fall directly on the equator."
+                    },
+                    {
+                        "question": "Days and nights are caused by the ________ of the earth.",
+                        "options": [
+                            "Rotation",
+                            "Revolution",
+                            "Gravitational pull",
+                            "Tilt"
+                        ],
+                        "answer": 0,
+                        "explanation": "The daily rotation of the earth on its axis causes day and night."
+                    },
+                    {
+                        "question": "Changes in seasons are caused by the ________ of the earth.",
+                        "options": [
+                            "Rotation",
+                            "Revolution",
+                            "Speed",
+                            "Atmosphere"
+                        ],
+                        "answer": 1,
+                        "explanation": "The revolution of the tilted earth around the sun causes changes in seasons."
+                    },
+                    {
+                        "question": "The orbital plane is the plane formed by the:",
+                        "options": [
+                            "Axis",
+                            "Orbit",
+                            "Equator",
+                            "Poles"
+                        ],
+                        "answer": 1,
+                        "explanation": "The plane formed by the orbit is called the orbital plane."
+                    },
+                    {
+                        "question": "Places beyond the Arctic Circle experience continuous daylight for about:",
+                        "options": [
+                            "1 month",
+                            "3 months",
+                            "6 months",
+                            "1 year"
+                        ],
+                        "answer": 2,
+                        "explanation": "Since the northern half remains tilted towards the sun, places beyond the Arctic circle experience daylight for about six months."
+                    }
+                ],
+                "ch4": [
+                    {
+                        "question": "A drawing of the earth's surface or a part of it drawn on a flat surface according to a scale is called a:",
+                        "options": [
+                            "Globe",
+                            "Map",
+                            "Sketch",
+                            "Plan"
+                        ],
+                        "answer": 1,
+                        "explanation": "A map is a representation or a drawing of the earth’s surface or a part of it drawn on a flat surface according to a scale."
+                    },
+                    {
+                        "question": "A map showing natural features of the earth such as mountains, plateaus, and rivers is called a:",
+                        "options": [
+                            "Political Map",
+                            "Thematic Map",
+                            "Physical Map",
+                            "Topographical Map"
+                        ],
+                        "answer": 2,
+                        "explanation": "Physical or relief maps show natural features of the earth."
+                    },
+                    {
+                        "question": "A map showing cities, towns, and villages, and different countries and states of the world with their boundaries is called a:",
+                        "options": [
+                            "Physical Map",
+                            "Thematic Map",
+                            "Political Map",
+                            "Climate Map"
+                        ],
+                        "answer": 2,
+                        "explanation": "Political maps show political boundaries and locations."
+                    },
+                    {
+                        "question": "A map that focuses on specific information such as rainfall or distribution of forests is called a:",
+                        "options": [
+                            "Thematic Map",
+                            "Political Map",
+                            "Physical Map",
+                            "Geographic Map"
+                        ],
+                        "answer": 0,
+                        "explanation": "Thematic maps focus on a specific theme like roads, rainfall, population density, etc."
+                    },
+                    {
+                        "question": "The three main components of a map are distance, direction, and:",
+                        "options": [
+                            "Color",
+                            "Symbol",
+                            "Lines",
+                            "Grid"
+                        ],
+                        "answer": 1,
+                        "explanation": "The three components are distance, direction and symbol."
+                    },
+                    {
+                        "question": "To represent a large distance on paper, maps use a:",
+                        "options": [
+                            "Compass",
+                            "Ruler",
+                            "Scale",
+                            "Grid"
+                        ],
+                        "answer": 2,
+                        "explanation": "Scale is the ratio between the actual distance on the ground and the distance shown on the map."
+                    },
+                    {
+                        "question": "A small scale map is used to show:",
+                        "options": [
+                            "Small areas like a village",
+                            "Large areas like continents or countries",
+                            "The layout of a house",
+                            "Detailed buildings"
+                        ],
+                        "answer": 1,
+                        "explanation": "Large areas require a small scale, where e.g., 5 cm on the map shows 500 km."
+                    },
+                    {
+                        "question": "A large scale map is used to show:",
+                        "options": [
+                            "Continents",
+                            "Countries",
+                            "Small areas like your village or town",
+                            " Oceans"
+                        ],
+                        "answer": 2,
+                        "explanation": "Small areas use a large scale, e.g., 5 cm on map shows 500 metres. Large scale maps give more information than small scale maps."
+                    },
+                    {
+                        "question": "Most maps contain an arrow marked with the letter 'N' at the upper right hand corner. This indicates the:",
+                        "options": [
+                            "South direction",
+                            "North direction",
+                            "Neutral direction",
+                            "Next direction"
+                        ],
+                        "answer": 1,
+                        "explanation": "The arrow points to the north direction."
+                    },
+                    {
+                        "question": "The four major directions, North, South, East, and West, are called:",
+                        "options": [
+                            "Intermediate points",
+                            "Cardinal points",
+                            "Ordinal points",
+                            "Compass points"
+                        ],
+                        "answer": 1,
+                        "explanation": "North, South, East, and West are the four cardinal points or directions."
+                    },
+                    {
+                        "question": "We can find out the direction of a place with the help of a:",
+                        "options": [
+                            "Barometer",
+                            "Thermometer",
+                            "Compass",
+                            "Seismograph"
+                        ],
+                        "answer": 2,
+                        "explanation": "A magnetic compass is used to find main directions; its magnetic needle always points towards North-South direction."
+                    },
+                    {
+                        "question": "Instead of drawing real pictures of buildings or trees, maps use:",
+                        "options": [
+                            "Symbols",
+                            "Colors",
+                            "Words",
+                            "Shadows"
+                        ],
+                        "answer": 0,
+                        "explanation": "Maps use certain letters, shades, colours, pictures, and lines known as symbols."
+                    },
+                    {
+                        "question": "Symbols that have an international agreement regarding their use are called:",
+                        "options": [
+                            "Standard Symbols",
+                            "Conventional Symbols",
+                            "Universal Symbols",
+                            "Accepted Symbols"
+                        ],
+                        "answer": 1,
+                        "explanation": "These symbols are uniform across the world and are called conventional symbols."
+                    },
+                    {
+                        "question": "In standard map coloring, blue is generally used for showing:",
+                        "options": [
+                            "Mountains",
+                            "Plains",
+                            "Water bodies",
+                            "Plateaus"
+                        ],
+                        "answer": 2,
+                        "explanation": "Blue is used for water bodies, brown for mountain, yellow for plateau, and green for plains."
+                    },
+                    {
+                        "question": "A rough drawing, drawn mainly based on memory and spot observation rather than to scale, is called a:",
+                        "options": [
+                            "Map",
+                            "Sketch",
+                            "Plan",
+                            "Globe"
+                        ],
+                        "answer": 1,
+                        "explanation": "A sketch is a drawing mainly based on memory and spot observation and not to scale."
+                    },
+                    {
+                        "question": "A drawing of a small area on a large scale (like the layout of a room) is called a:",
+                        "options": [
+                            "Map",
+                            "Sketch",
+                            "Plan",
+                            "Blue print"
+                        ],
+                        "answer": 2,
+                        "explanation": "A plan is a drawing of a small area on a large scale, showing details like length and breadth of a room."
+                    },
+                    {
+                        "question": "A map with the scale 1 cm = 100 km is a:",
+                        "options": [
+                            "Large scale map",
+                            "Small scale map",
+                            "No scale map",
+                            "Medium scale map"
+                        ],
+                        "answer": 1,
+                        "explanation": "Since 1 cm represents a massive actual length, it's a small scale map."
+                    },
+                    {
+                        "question": "When an entire continent like Asia is drawn on a map, which scale type is appropriate?",
+                        "options": [
+                            "Large scale",
+                            "Small scale",
+                            "Actual scale",
+                            "Zoom scale"
+                        ],
+                        "answer": 1,
+                        "explanation": "To fit continents on a piece of paper, a small scale is used."
+                    },
+                    {
+                        "question": "Brown color in maps represents:",
+                        "options": [
+                            "Continents",
+                            "Mountains",
+                            "Forests",
+                            "Oceans"
+                        ],
+                        "answer": 1,
+                        "explanation": "Brown usually represents mountains and highlands."
+                    },
+                    {
+                        "question": "What is the relation between actual distance and distance on map?",
+                        "options": [
+                            "Ratio",
+                            "Scale",
+                            "Proportion",
+                            "Fraction"
+                        ],
+                        "answer": 1,
+                        "explanation": "The scale represents the ratio between the map distance and the actual ground distance."
+                    },
+                    {
+                        "question": "Intermediate directions are:",
+                        "options": [
+                            "North, South, East, West",
+                            "NE, SE, SW, NW",
+                            "Up, Down, Left, Right",
+                            "Latitudes, Longitudes"
+                        ],
+                        "answer": 1,
+                        "explanation": "The four intermediate directions are north-east (NE), south-east (SE), south-west (SW) and north-west (NW)."
+                    },
+                    {
+                        "question": "How are maps different from globes?",
+                        "options": [
+                            "Globes are flat",
+                            "Maps are two-dimensional, globes are three-dimensional spherical models",
+                            "Globes show less detail",
+                            "Maps are always round"
+                        ],
+                        "answer": 1,
+                        "explanation": "Globes are 3D miniature earth models, while maps are 2D representations."
+                    },
+                    {
+                        "question": "A collection or a book of multiple maps is called:",
+                        "options": [
+                            "Dictionary",
+                            "Encyclopedia",
+                            "Atlas",
+                            "Almanac"
+                        ],
+                        "answer": 2,
+                        "explanation": "An Atlas is a collection of various maps, often divided by regions or themes."
+                    },
+                    {
+                        "question": "Can a map be true to scale for the whole spherical earth without minor distortions?",
+                        "options": [
+                            "Yes",
+                            "No",
+                            "Only large scale maps",
+                            "Depends on the paper"
+                        ],
+                        "answer": 1,
+                        "explanation": "Because flattening a spherical surface causes some distortion, no 2D map can perfectly represent the entire 3D earth without minor distortion somewhere."
+                    },
+                    {
+                        "question": "If you are facing North, the East is to your:",
+                        "options": [
+                            "Left",
+                            "Right",
+                            "Back",
+                            "Front"
+                        ],
+                        "answer": 1,
+                        "explanation": "When facing North, the East is exactly to your right side."
+                    }
+                ],
+                "ch5": [
+                    {
+                        "question": "The solid portion of the earth on which we live is called the:",
+                        "options": [
+                            "Atmosphere",
+                            "Lithosphere",
+                            "Hydrosphere",
+                            "Biosphere"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Lithosphere is the solid layer made up of the rocks of the earth’s crust."
+                    },
+                    {
+                        "question": "The gaseous layers that surround the earth form the:",
+                        "options": [
+                            "Lithosphere",
+                            "Atmosphere",
+                            "Hydrosphere",
+                            "Ozone layer"
+                        ],
+                        "answer": 1,
+                        "explanation": "The atmosphere consists of gases like oxygen, nitrogen, and carbon dioxide."
+                    },
+                    {
+                        "question": "Water covers a very big area of the earth’s surface. This area is called the:",
+                        "options": [
+                            "Lithosphere",
+                            "Hydrosphere",
+                            "Troposphere",
+                            "Biosphere"
+                        ],
+                        "answer": 1,
+                        "explanation": "The hydrosphere comprises water in all its forms: ice, water, and water vapour."
+                    },
+                    {
+                        "question": "The narrow zone where we find land, water, and air together, containing all forms of life, is the:",
+                        "options": [
+                            "Biosphere",
+                            "Thermosphere",
+                            "Hydrosphere",
+                            "Ecosystem"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Biosphere is the domain of life where land, water, and air meet."
+                    },
+                    {
+                        "question": "The highest mountain peak on Earth is:",
+                        "options": [
+                            "K2",
+                            "Mt. Everest",
+                            "Mt. Kilimanjaro",
+                            "Mt. Elbrus"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mt. Everest is 8,848 metres above sea level (now measured at 8,848.86m)."
+                    },
+                    {
+                        "question": "The greatest depth of 10,922 metres has been recorded at the Mariana Trench in the:",
+                        "options": [
+                            "Atlantic Ocean",
+                            "Pacific Ocean",
+                            "Indian Ocean",
+                            "Arctic Ocean"
+                        ],
+                        "answer": 1,
+                        "explanation": "The deepest point on Earth is located in the Pacific Ocean."
+                    },
+                    {
+                        "question": "Which of the following is the largest continent on Earth?",
+                        "options": [
+                            "Africa",
+                            "Asia",
+                            "North America",
+                            "Europe"
+                        ],
+                        "answer": 1,
+                        "explanation": "Asia is the largest continent, covering about one-third of the total land area of the earth."
+                    },
+                    {
+                        "question": "Which important latitude passes almost through the middle of Africa?",
+                        "options": [
+                            "Tropic of Cancer",
+                            "Equator",
+                            "Tropic of Capricorn",
+                            "Arctic Circle"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Equator or 0° latitude runs almost through the middle of the continent of Africa."
+                    },
+                    {
+                        "question": "The continent of North America is linked to South America by a very narrow strip of land called the:",
+                        "options": [
+                            "Strait of Magellan",
+                            "Isthmus of Panama",
+                            "Palk Strait",
+                            "Suez Canal"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Isthmus of Panama links North and South America."
+                    },
+                    {
+                        "question": "The world's longest river, the Nile, flows through which continent?",
+                        "options": [
+                            "Asia",
+                            "Africa",
+                            "South America",
+                            "Europe"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Nile river flows through the African continent."
+                    },
+                    {
+                        "question": "Which is the smallest continent that lies entirely in the Southern Hemisphere?",
+                        "options": [
+                            "Europe",
+                            "Antarctica",
+                            "Australia",
+                            "South America"
+                        ],
+                        "answer": 2,
+                        "explanation": "Australia is the smallest continent, completely in the Southern Hemisphere. It's often called an island continent."
+                    },
+                    {
+                        "question": "Which continent is permanently covered with thick ice sheets and has no permanent human settlement?",
+                        "options": [
+                            "Europe",
+                            "Antarctica",
+                            "Greenland",
+                            "Asia"
+                        ],
+                        "answer": 1,
+                        "explanation": "Antarctica is located around the South Pole and is permanently covered with ice sheets."
+                    },
+                    {
+                        "question": "India has a research station in Antarctica named:",
+                        "options": [
+                            "Gangotri and Yamunotri",
+                            "Maitri and Dakshin Gangotri",
+                            "Bose and Raman",
+                            "Aryabhata"
+                        ],
+                        "answer": 1,
+                        "explanation": "Maitri and Dakshin Gangotri (and later Bharati) are Indian research stations in Antarctica."
+                    },
+                    {
+                        "question": "More than 97% of the Earth's water is found in the oceans, but it is too:",
+                        "options": [
+                            "Fresh",
+                            "Salty",
+                            "Muddy",
+                            "Cold"
+                        ],
+                        "answer": 1,
+                        "explanation": "The water in oceans is highly saline and not fit for human consumption."
+                    },
+                    {
+                        "question": "Which is the largest ocean on Earth?",
+                        "options": [
+                            "Atlantic Ocean",
+                            "Indian Ocean",
+                            "Pacific Ocean",
+                            "Arctic Ocean"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Pacific Ocean is the largest ocean, spreading over one-third of the earth."
+                    },
+                    {
+                        "question": "Which ocean is 'S' shaped?",
+                        "options": [
+                            "Pacific Ocean",
+                            "Atlantic Ocean",
+                            "Indian Ocean",
+                            "Arctic Ocean"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Atlantic Ocean is 'S' shaped, flanked by the Americas on the west and Europe and Africa on the east."
+                    },
+                    {
+                        "question": "Which ocean is named after a country?",
+                        "options": [
+                            "Pacific Ocean",
+                            "Atlantic Ocean",
+                            "Indian Ocean",
+                            "Arctic Ocean"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Indian Ocean is the only ocean named after a country, that is, India."
+                    },
+                    {
+                        "question": "The Arctic Ocean is connected with the Pacific Ocean by a narrow stretch of shallow water known as:",
+                        "options": [
+                            "The English Channel",
+                            "Bering Strait",
+                            "Palk Strait",
+                            "Strait of Gibraltar"
+                        ],
+                        "answer": 1,
+                        "explanation": "Bering strait connects the Arctic Ocean to the Pacific Ocean."
+                    },
+                    {
+                        "question": "The atmosphere is composed mainly of which two gases?",
+                        "options": [
+                            "Oxygen and Carbon dioxide",
+                            "Nitrogen and Oxygen",
+                            "Argon and Ozone",
+                            "Nitrogen and Carbon dioxide"
+                        ],
+                        "answer": 1,
+                        "explanation": "The atmosphere consists chiefly of nitrogen (78%) and oxygen (21%)."
+                    },
+                    {
+                        "question": "Which gas is essential for the growth of living organisms?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Carbon dioxide",
+                            "Argon"
+                        ],
+                        "answer": 1,
+                        "explanation": "While oxygen is the breath of life, nitrogen is essential for the growth of living organisms."
+                    },
+                    {
+                        "question": "The atmosphere is divided into how many layers based on composition, temperature, and other properties?",
+                        "options": [
+                            "Three",
+                            "Four",
+                            "Five",
+                            "Six"
+                        ],
+                        "answer": 2,
+                        "explanation": "The layers are troposphere, stratosphere, mesosphere, thermosphere and exosphere (Five layers)."
+                    },
+                    {
+                        "question": "The density of the atmosphere is maximum at the:",
+                        "options": [
+                            "Sea level",
+                            "Mountain peaks",
+                            "Equator",
+                            "Poles"
+                        ],
+                        "answer": 0,
+                        "explanation": "Density varies with height. It is maximum at the sea level and decreases rapidly as we go up."
+                    },
+                    {
+                        "question": "The domain of life which consists of the plant and animal kingdom together is the:",
+                        "options": [
+                            "Atmosphere",
+                            "Biosphere",
+                            "Exosphere",
+                            "Hydrosphere"
+                        ],
+                        "answer": 1,
+                        "explanation": "The biosphere is the very narrow zone of contact between the land, water and air where life exists."
+                    },
+                    {
+                        "question": "An increase in the amount of carbon dioxide leads to an increase in global temperatures, termed as:",
+                        "options": [
+                            "Greenhouse effect",
+                            "Global warming",
+                            "Ozone depletion",
+                            "Air pollution"
+                        ],
+                        "answer": 1,
+                        "explanation": "CO2 traps heat, increasing global temperatures, causing global warming."
+                    },
+                    {
+                        "question": "Which two continents make up the landmass known as Eurasia?",
+                        "options": [
+                            "Europe and Asia",
+                            "Europe and Africa",
+                            "Asia and Africa",
+                            "North and South America"
+                        ],
+                        "answer": 0,
+                        "explanation": "The combined landmass of Europe and Asia is called Eurasia (Europe + Asia)."
+                    }
+                ],
+                "ch6": [
+                    {
+                        "question": "The earth's surface is not the same everywhere. Major landforms include mountains, plateaus, and:",
+                        "options": [
+                            "Oceans",
+                            "Valleys",
+                            "Rivers",
+                            "Plains"
+                        ],
+                        "answer": 3,
+                        "explanation": "Plains along with mountains and plateaus are the major landforms of the earth."
+                    },
+                    {
+                        "question": "Landforms are the result of two processes. The internal process leads to the upliftment and sinking of the earth's surface, and the external process is the:",
+                        "options": [
+                            "Freezing of water",
+                            "Continuous wearing down and rebuilding of the land surface",
+                            "Volcanic eruptions",
+                            "Earthquakes"
+                        ],
+                        "answer": 1,
+                        "explanation": "External processes operate on the surface via erosion and deposition."
+                    },
+                    {
+                        "question": "The wearing away of the earth's surface is called:",
+                        "options": [
+                            "Erosion",
+                            "Deposition",
+                            "Elevation",
+                            "Gradation"
+                        ],
+                        "answer": 0,
+                        "explanation": "The surface is being lowered by the process of erosion."
+                    },
+                    {
+                        "question": "The surface is rebuilt and raised by the process of:",
+                        "options": [
+                            "Deposition",
+                            "Erosion",
+                            "Melting",
+                            "Sinking"
+                        ],
+                        "answer": 0,
+                        "explanation": "Erosion is followed by deposition, which rebuilds the surface."
+                    },
+                    {
+                        "question": "A mountain is any natural elevation of the earth surface. Mountains may have a broad base and a:",
+                        "options": [
+                            "Flat top",
+                            "Small summit",
+                            "Crater",
+                            "Deep valley"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mountains often have a small summit and a broad base."
+                    },
+                    {
+                        "question": "Some mountains are permanently frozen rivers of ice known as:",
+                        "options": [
+                            "Icebergs",
+                            "Glaciers",
+                            "Snowcaps",
+                            "Avalanches"
+                        ],
+                        "answer": 1,
+                        "explanation": "Permanently frozen rivers of ice found in some mountains are called glaciers."
+                    },
+                    {
+                        "question": "A continuous line or chain of mountains is known as a:",
+                        "options": [
+                            "Range",
+                            "Peak",
+                            "Plateau",
+                            "Valley"
+                        ],
+                        "answer": 0,
+                        "explanation": "Mountains arranged in a line form a range. The Himalayas and Alps are examples."
+                    },
+                    {
+                        "question": "There are three types of mountains. Which of the following is NOT one of them?",
+                        "options": [
+                            "Fold mountains",
+                            "Block mountains",
+                            "Volcanic mountains",
+                            "Plain mountains"
+                        ],
+                        "answer": 3,
+                        "explanation": "The three types are Fold Mountains, Block Mountains, and Volcanic Mountains."
+                    },
+                    {
+                        "question": "The Himalayan Mountains and the Alps are young:",
+                        "options": [
+                            "Block mountains",
+                            "Volcanic mountains",
+                            "Fold mountains",
+                            "Residual mountains"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Himalayas and the Alps are young fold mountains with rugged relief and high conical peaks."
+                    },
+                    {
+                        "question": "Which mountain range in India is one of the oldest fold mountain systems in the world?",
+                        "options": [
+                            "The Himalayas",
+                            "The Western Ghats",
+                            "The Aravali range",
+                            "The Vindhya range"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Aravali range in India is one of the oldest fold mountain systems in the world, having worn down due to erosion."
+                    },
+                    {
+                        "question": "Block Mountains are created when large areas are broken and displaced:",
+                        "options": [
+                            "Horizontally",
+                            "Diagonally",
+                            "Vertically",
+                            "Randomly"
+                        ],
+                        "answer": 2,
+                        "explanation": "Block mountains are created when massive blocks of rock are broken and displaced vertically."
+                    },
+                    {
+                        "question": "The uplifted blocks in Block Mountains are termed as:",
+                        "options": [
+                            "Graben",
+                            "Horsts",
+                            "Valleys",
+                            "Craters"
+                        ],
+                        "answer": 1,
+                        "explanation": "The uplifted blocks are termed as horsts and the lowered blocks are called graben."
+                    },
+                    {
+                        "question": "The Rhine valley and the Vosges mountain in Europe are examples of:",
+                        "options": [
+                            "Fold mountains",
+                            "Volcanic mountains",
+                            "Block mountains",
+                            "Plateaus"
+                        ],
+                        "answer": 2,
+                        "explanation": "These are classic examples of block mountain systems."
+                    },
+                    {
+                        "question": "Mt. Kilimanjaro in Africa and Mt. Fujiyama in Japan are examples of:",
+                        "options": [
+                            "Block mountains",
+                            "Fold mountains",
+                            "Volcanic mountains",
+                            "Old mountains"
+                        ],
+                        "answer": 2,
+                        "explanation": "Volcanic mountains are formed due to volcanic activity."
+                    },
+                    {
+                        "question": "Mountains are very useful as they are a storehouse of:",
+                        "options": [
+                            "Gold",
+                            "Water",
+                            "Oil",
+                            "Coal only"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mountains act as a storehouse of water. Many rivers have their source in the glaciers."
+                    },
+                    {
+                        "question": "An elevated flat land is known as a:",
+                        "options": [
+                            "Mountain",
+                            "Plateau",
+                            "Plain",
+                            "Ridge"
+                        ],
+                        "answer": 1,
+                        "explanation": "A plateau is an elevated flat land. It is a flat-topped table land standing above the surrounding area."
+                    },
+                    {
+                        "question": "Which plateau is one of the oldest plateaus in India?",
+                        "options": [
+                            "Chhotanagpur plateau",
+                            "Deccan plateau",
+                            "Malwa plateau",
+                            "Tibetan plateau"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Deccan plateau in India is one of the oldest plateaus."
+                    },
+                    {
+                        "question": "The highest plateau in the world, with a height of 4,000 to 6,000 metres above sea level, is the:",
+                        "options": [
+                            "Deccan plateau",
+                            "African plateau",
+                            "Tibet plateau",
+                            "Colorado plateau"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Tibet plateau is the highest plateau in the world."
+                    },
+                    {
+                        "question": "Plateaus are very useful because they are rich in:",
+                        "options": [
+                            "Agricultural lands",
+                            "Water resources",
+                            "Mineral deposits",
+                            "Forests"
+                        ],
+                        "answer": 2,
+                        "explanation": "Many of the mining areas in the world are located in the plateau areas, such as the African plateau (gold/diamonds)."
+                    },
+                    {
+                        "question": "The Chhotanagpur plateau in India has huge reserves of:",
+                        "options": [
+                            "Gold and silver",
+                            "Mica and Uranium",
+                            "Iron, coal and manganese",
+                            "Oil and Natural Gas"
+                        ],
+                        "answer": 2,
+                        "explanation": "Huge reserves of iron, coal, and manganese are found in the Chhotanagpur plateau."
+                    },
+                    {
+                        "question": "The Hundru falls is located in which plateau?",
+                        "options": [
+                            "Deccan plateau",
+                            "African plateau",
+                            "Chhotanagpur plateau",
+                            "Tibetan plateau"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Hundru falls is on the river Subarnarekha in the Chhotanagpur plateau."
+                    },
+                    {
+                        "question": "Large stretches of flat land, generally not more than 200 metres above sea level, are called:",
+                        "options": [
+                            "Plateaus",
+                            "Valleys",
+                            "Deserts",
+                            "Plains"
+                        ],
+                        "answer": 3,
+                        "explanation": "Plains are very easy to traverse and are large stretches of flat land."
+                    },
+                    {
+                        "question": "Most of the plains are formed by rivers and their:",
+                        "options": [
+                            "Glaciers",
+                            "Tributaries",
+                            "Winds",
+                            "Earthquakes"
+                        ],
+                        "answer": 1,
+                        "explanation": "Rivers and their tributaries flow down the slopes of mountains and deposit silt, forming plains."
+                    },
+                    {
+                        "question": "Why are plains very thickly populated regions of the world?",
+                        "options": [
+                            "Cool climate",
+                            "Lots of minerals",
+                            "Fertile soil and flat land for building/transport",
+                            "Abundant forests"
+                        ],
+                        "answer": 2,
+                        "explanation": "Plains provide fertile land for farming and level terrain for building houses and transport."
+                    },
+                    {
+                        "question": "Land use refers to the purpose for which land is utilized. Using fertile land to build houses or industries is:",
+                        "options": [
+                            "Sustainable development",
+                            "Wastage of resources and a bad practice",
+                            "Good economics",
+                            "Inevitable"
+                        ],
+                        "answer": 1,
+                        "explanation": "We shouldn't use fertile land for building houses. We must leave the earth a better place for future generations."
+                    }
+                ],
+                "ch7": [
+                    {
+                        "question": "India has an area of about:",
+                        "options": [
+                            "4.28 million sq. km",
+                            "3.28 million sq. km",
+                            "2.18 million sq. km",
+                            "5.28 million sq. km"
+                        ],
+                        "answer": 1,
+                        "explanation": "India is a country of vast geographical expanse with an area of about 3.28 million sq. km."
+                    },
+                    {
+                        "question": "The north-south extent from Kashmir to Kanyakumari is about:",
+                        "options": [
+                            "2,900 km",
+                            "3,200 km",
+                            "4,000 km",
+                            "1,500 km"
+                        ],
+                        "answer": 1,
+                        "explanation": "The north-south extent is about 3,200 km."
+                    },
+                    {
+                        "question": "The east-west extent from Arunachal Pradesh to Kuchchh is about:",
+                        "options": [
+                            "2,900 km",
+                            "3,200 km",
+                            "4,000 km",
+                            "1,500 km"
+                        ],
+                        "answer": 0,
+                        "explanation": "The east-west extent is about 2,900 km."
+                    },
+                    {
+                        "question": "India is the ________ most populous country of the world after China.",
+                        "options": [
+                            "First",
+                            "Second",
+                            "Third",
+                            "Fourth"
+                        ],
+                        "answer": 1,
+                        "explanation": "According to the 2011 census, India is the second most populous country after China."
+                    },
+                    {
+                        "question": "India is located in which hemisphere?",
+                        "options": [
+                            "Northern hemisphere",
+                            "Southern hemisphere",
+                            "Western hemisphere",
+                            "South-western hemisphere"
+                        ],
+                        "answer": 0,
+                        "explanation": "India is located in the northern hemisphere."
+                    },
+                    {
+                        "question": "Which important latitude passes almost halfway through the country?",
+                        "options": [
+                            "Equator",
+                            "Tropic of Capricorn",
+                            "Arctic Circle",
+                            "Tropic of Cancer"
+                        ],
+                        "answer": 3,
+                        "explanation": "The Tropic of Cancer (23°30' N) passes almost halfway through the country."
+                    },
+                    {
+                        "question": "From south to north, main land of India extends between ________ and ________ latitudes.",
+                        "options": [
+                            "8°4'N and 37°6'N",
+                            "10°4'S and 20°6'N",
+                            "68°7'E and 97°25'E",
+                            "7°5'N and 35°6'N"
+                        ],
+                        "answer": 0,
+                        "explanation": "From south to north, main land of India extends between 8°4'N and 37°6'N latitudes."
+                    },
+                    {
+                        "question": "From west to east, India extends between ________ and ________ longitudes.",
+                        "options": [
+                            "8°4'N and 37°6'N",
+                            "68°7'E and 97°25'E",
+                            "50°2'E and 80°6'E",
+                            "72°1'E and 90°5'E"
+                        ],
+                        "answer": 1,
+                        "explanation": "From west to east, India extends between 68°7'E and 97°25'E longitudes."
+                    },
+                    {
+                        "question": "Due to great longitudinal extent of about 29°, the time difference between two extreme points of India is about:",
+                        "options": [
+                            "One hour",
+                            "Two hours",
+                            "Three hours",
+                            "Thirty minutes"
+                        ],
+                        "answer": 1,
+                        "explanation": "There could be a wide differences in local time. The time difference between Arunachal Pradesh and Kuchchh is about two hours."
+                    },
+                    {
+                        "question": "The sun rises about two hours earlier in ________ than in Gujarat.",
+                        "options": [
+                            "Kashmir",
+                            "Arunachal Pradesh",
+                            "Maharashtra",
+                            "Kerala"
+                        ],
+                        "answer": 1,
+                        "explanation": "Arunachal Pradesh is in the far east, so the sun rises earlier there."
+                    },
+                    {
+                        "question": "How many countries share land boundaries with India?",
+                        "options": [
+                            "Five",
+                            "Six",
+                            "Seven",
+                            "Eight"
+                        ],
+                        "answer": 2,
+                        "explanation": "There are seven countries that share land boundaries with India (Pakistan, Afghanistan, China, Nepal, Bhutan, Myanmar, Bangladesh)."
+                    },
+                    {
+                        "question": "Across the sea to the south, lie our island neighbours. Name them.",
+                        "options": [
+                            "Indonesia and Malaysia",
+                            "Sri Lanka and Maldives",
+                            "Madagascar and Mauritius",
+                            "Tasmania and New Zealand"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sri Lanka and Maldives are our island neighbours to the south."
+                    },
+                    {
+                        "question": "Sri Lanka is separated from India by the:",
+                        "options": [
+                            "Palk Strait",
+                            "Bering Strait",
+                            "Strait of Magellan",
+                            "Suez Canal"
+                        ],
+                        "answer": 0,
+                        "explanation": "Sri Lanka is separated from India by the Palk Strait."
+                    },
+                    {
+                        "question": "India is divided into how many states and Union Territories? (As per recent changes)",
+                        "options": [
+                            "29 states and 7 UTs",
+                            "28 states and 8 UTs",
+                            "30 states and 6 UTs",
+                            "25 states and 5 UTs"
+                        ],
+                        "answer": 1,
+                        "explanation": "India has 28 states and 8 Union Territories (including J&K and Ladakh reorganizations)."
+                    },
+                    {
+                        "question": "Which is the national capital of India?",
+                        "options": [
+                            "Mumbai",
+                            "Chennai",
+                            "Kolkata",
+                            "New Delhi"
+                        ],
+                        "answer": 3,
+                        "explanation": "New Delhi is the national capital of India."
+                    },
+                    {
+                        "question": "The states of India have been formed mainly on the basis of:",
+                        "options": [
+                            "Religion",
+                            "Languages",
+                            "Wealth",
+                            "Climate"
+                        ],
+                        "answer": 1,
+                        "explanation": "The states have been formed mainly on the basis of languages."
+                    },
+                    {
+                        "question": "In terms of area, which is the largest state in India?",
+                        "options": [
+                            "Maharashtra",
+                            "Rajasthan",
+                            "Madhya Pradesh",
+                            "Uttar Pradesh"
+                        ],
+                        "answer": 1,
+                        "explanation": "In terms of area, Rajasthan is the largest state."
+                    },
+                    {
+                        "question": "In terms of area, which is the smallest state in India?",
+                        "options": [
+                            "Sikkim",
+                            "Delhi",
+                            "Goa",
+                            "Puducherry"
+                        ],
+                        "answer": 2,
+                        "explanation": "Goa is the smallest state in terms of area."
+                    },
+                    {
+                        "question": "The Himalayan mountains are divided into three main parallel ranges. The northernmost is:",
+                        "options": [
+                            "Middle Himalaya",
+                            "Shivalik",
+                            "Great Himalaya or Himadri",
+                            "Karakoram"
+                        ],
+                        "answer": 2,
+                        "explanation": "The northernmost range is the Great Himalaya or Himadri."
+                    },
+                    {
+                        "question": "The world's highest peaks are located in which Himalayan range?",
+                        "options": [
+                            "Himadri",
+                            "Himachal",
+                            "Shivalik",
+                            "Purvanchal"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Great Himalaya or Himadri range contains the world's highest peaks."
+                    },
+                    {
+                        "question": "The southernmost range of the Himalayas is:",
+                        "options": [
+                            "Himachal",
+                            "Himadri",
+                            "Shivalik",
+                            "Aravalli"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Shivalik is the southernmost range of the Himalayas."
+                    },
+                    {
+                        "question": "The Northern Indian plains lie to the south of the Himalayas. They are formed by the alluvial deposits laid down by:",
+                        "options": [
+                            "The Indus, the Ganga, the Brahmaputra",
+                            "The Narmada and the Tapi",
+                            "The Godavari and the Krishna",
+                            "The Mahanadi and the Kaveri"
+                        ],
+                        "answer": 0,
+                        "explanation": "They are formed by the Indus, the Ganga, the Brahmaputra and their tributaries."
+                    },
+                    {
+                        "question": "The western part of India contains a dry, hot and sandy stretch of land called the:",
+                        "options": [
+                            "Gobi Desert",
+                            "Kalahari Desert",
+                            "Great Indian Desert",
+                            "Sahara Desert"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Great Indian (Thar) Desert lies in the western part of India."
+                    },
+                    {
+                        "question": "To the south of northern plains lies the Peninsular plateau, which is ________ in shape.",
+                        "options": [
+                            "Square",
+                            "Circular",
+                            "Rectangular",
+                            "Triangular"
+                        ],
+                        "answer": 3,
+                        "explanation": "The Peninsular plateau is triangular in shape."
+                    },
+                    {
+                        "question": "The Vindhyas and the Satpuras are important ranges in central India. Which rivers flow through these ranges?",
+                        "options": [
+                            "Ganga and Yamuna",
+                            "Narmada and Tapi",
+                            "Godavari and Krishna",
+                            "Mahanadi and Kaveri"
+                        ],
+                        "answer": 1,
+                        "explanation": "Narmada and Tapi rivers flow through the Vindhyas and Satpuras into the Arabian Sea."
+                    }
+                ],
+                "ch8": [
+                    {
+                        "question": "The day-to-day changes in the atmosphere are known as:",
+                        "options": [
+                            "Climate",
+                            "Season",
+                            "Weather",
+                            "Environment"
+                        ],
+                        "answer": 2,
+                        "explanation": "Weather is about day to day changes in the atmosphere, including changes in temperature, rainfall and sunshine."
+                    },
+                    {
+                        "question": "Which of the following describes the average weather condition, which has been measured over many years?",
+                        "options": [
+                            "Rainfall",
+                            "Monsoon",
+                            "Weather",
+                            "Climate"
+                        ],
+                        "answer": 3,
+                        "explanation": "Climate is the average weather condition measured over many years."
+                    },
+                    {
+                        "question": "Broadly, major seasons recognised in India are:",
+                        "options": [
+                            "Only Summer and Winter",
+                            "Summer, Winter, Monsoon and Autumn",
+                            "Spring and Summer",
+                            "Just Monsoons"
+                        ],
+                        "answer": 1,
+                        "explanation": "Cold Weather (Winter), Hot Weather (Summer), Southwest Monsoon (Rainy), and Season of Retreating Monsoon (Autumn)."
+                    },
+                    {
+                        "question": "During the hot weather season (summer) in India, what are the hot and dry winds that blow during the day called?",
+                        "options": [
+                            "Loo",
+                            "Chinook",
+                            "Sirocco",
+                            "Mistral"
+                        ],
+                        "answer": 0,
+                        "explanation": "Hot and dry winds called loo, blow during the day in summers."
+                    },
+                    {
+                        "question": "The word 'monsoon' is taken from the Arabic word 'mausim', which means:",
+                        "options": [
+                            "Wind",
+                            "Rain",
+                            "Seasons",
+                            "Storm"
+                        ],
+                        "answer": 2,
+                        "explanation": "The word monsoon is taken from the Arabic word 'mausim', which means seasons."
+                    },
+                    {
+                        "question": "During the South West monsoon season, the winds blow from the:",
+                        "options": [
+                            "Land to the sea",
+                            "Mountains to the plains",
+                            "Arabian Sea and Bay of Bengal towards the land",
+                            "Himalayas to the Indian Ocean"
+                        ],
+                        "answer": 2,
+                        "explanation": "Winds blow from the Arabian Sea and Bay of Bengal towards the land, carrying moisture."
+                    },
+                    {
+                        "question": "The climate of India has broadly been described as:",
+                        "options": [
+                            "Mediterranean",
+                            "Equatorial",
+                            "Monsoon type",
+                            "Desert type"
+                        ],
+                        "answer": 2,
+                        "explanation": "India's climate has broadly been described as Monsoon type."
+                    },
+                    {
+                        "question": "During the season of retreating monsoons, winds move back from the main land to the:",
+                        "options": [
+                            "Himalayas",
+                            "Arabian sea",
+                            "Bay of Bengal",
+                            "Indian Ocean"
+                        ],
+                        "answer": 2,
+                        "explanation": "Winds move back from the mainland to the Bay of Bengal."
+                    },
+                    {
+                        "question": "The southern parts of India, particularly Tamil Nadu and Andhra Pradesh, receive rainfall during the:",
+                        "options": [
+                            "South West Monsoon season",
+                            "Summer season",
+                            "Retreating Monsoon season",
+                            "Winter season"
+                        ],
+                        "answer": 2,
+                        "explanation": "They receive rainfall in the season of retreating monsoons."
+                    },
+                    {
+                        "question": "The climate of a place is affected by its:",
+                        "options": [
+                            "Location, altitude, distance from the sea, and relief",
+                            "Only latitude",
+                            "Only longitude",
+                            "Only its proximity to a city"
+                        ],
+                        "answer": 0,
+                        "explanation": "Climate is affected by location, altitude, distance from the sea, and relief."
+                    },
+                    {
+                        "question": "Which places in Rajasthan are very hot, while Drass and Kargil in Jammu and Kashmir are freezing cold?",
+                        "options": [
+                            "Mumbai and Kolkata",
+                            "Jaisalmer and Bikaner",
+                            "Pune and Nashik",
+                            "Surat and Ahmedabad"
+                        ],
+                        "answer": 1,
+                        "explanation": "Jaisalmer and Bikaner in the desert of Rajasthan are very hot."
+                    },
+                    {
+                        "question": "Coastal places like Mumbai and Kolkata experience ________ climate.",
+                        "options": [
+                            "Freezing cold",
+                            "Very hot",
+                            "Moderate",
+                            "Desert"
+                        ],
+                        "answer": 2,
+                        "explanation": "Coastal places experience a moderate climate. They are neither too hot nor too cold."
+                    },
+                    {
+                        "question": "Which place receives the world's highest rainfall?",
+                        "options": [
+                            "Cherrapunji",
+                            "Mawsynram",
+                            "Shillong",
+                            "Guwahati"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mawsynram in Meghalaya receives the world's highest rainfall."
+                    },
+                    {
+                        "question": "The grasses, shrubs, and trees which grow on their own without interference or help from human beings are called:",
+                        "options": [
+                            "Artificial vegetation",
+                            "Crops",
+                            "Natural vegetation",
+                            "Plantations"
+                        ],
+                        "answer": 2,
+                        "explanation": "Natural vegetation grows on its own without human interference."
+                    },
+                    {
+                        "question": "Owing to its varied climatic conditions, India has a wide range of:",
+                        "options": [
+                            "Uniform forests",
+                            "Natural vegetation",
+                            "Deserts only",
+                            "Pine trees only"
+                        ],
+                        "answer": 1,
+                        "explanation": "India has a wide range of natural vegetation due to varied climatic conditions."
+                    },
+                    {
+                        "question": "Tropical rain forests occur in the areas which receive:",
+                        "options": [
+                            "Scanty rainfall",
+                            "Heavy rainfall",
+                            "Moderate rainfall",
+                            "No rainfall"
+                        ],
+                        "answer": 1,
+                        "explanation": "Tropical Rain Forests occur in the areas which receive heavy rainfall."
+                    },
+                    {
+                        "question": "Which forests are also called monsoon forests, where trees shed their leaves at a particular time of the year?",
+                        "options": [
+                            "Evergreen forests",
+                            "Thorny bushes",
+                            "Tropical deciduous forests",
+                            "Mangrove forests"
+                        ],
+                        "answer": 2,
+                        "explanation": "Tropical deciduous forests are also called monsoon forests. They shed their leaves."
+                    },
+                    {
+                        "question": "Important trees of tropical deciduous forests are:",
+                        "options": [
+                            "Sal, teak, peepal, neem and shisham",
+                            "Mahogany, ebony, rosewood",
+                            "Cactus, khair, babool",
+                            "Pine, deodar, fir"
+                        ],
+                        "answer": 0,
+                        "explanation": "Sal, teak, peepal, neem and shisham are important trees of tropical deciduous forests."
+                    },
+                    {
+                        "question": "Thorny bushes vegetation is found in ________ areas of the country.",
+                        "options": [
+                            "Wet and marshy",
+                            "Cold mountain",
+                            "Dry",
+                            "Coastal"
+                        ],
+                        "answer": 2,
+                        "explanation": "Thorny bushes are found in dry areas of the country like Rajasthan. Leaves are in the form of spines to reduce water loss."
+                    },
+                    {
+                        "question": "Mountain vegetation mostly consists of coniferous trees. Examples of these trees are:",
+                        "options": [
+                            "Sal and teak",
+                            "Pine, deodar, fir",
+                            "Cactus and aloe",
+                            "Sundari and bamboo"
+                        ],
+                        "answer": 1,
+                        "explanation": "Chir, Pine and Deodar are important trees of these forests."
+                    },
+                    {
+                        "question": "Which forests can survive in saline water and are found mainly in Sunderbans and in the Andaman and Nicobar Islands?",
+                        "options": [
+                            "Mountain forests",
+                            "Mangrove forests",
+                            "Deciduous forests",
+                            "Thorny bushes"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mangrove forests can survive in saline water."
+                    },
+                    {
+                        "question": "An important tree of the mangrove forests in the Sunderbans is:",
+                        "options": [
+                            "Neem",
+                            "Peepal",
+                            "Sundari",
+                            "Mahogany"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sundari is a well-known species of trees in mangrove forests after which Sunderbans have been named."
+                    },
+                    {
+                        "question": "Forests are useful because they provide us with oxygen and absorb:",
+                        "options": [
+                            "Nitrogen",
+                            "Argon",
+                            "Carbon dioxide",
+                            "Helium"
+                        ],
+                        "answer": 2,
+                        "explanation": "Plants release oxygen that we breathe and absorb carbon dioxide."
+                    },
+                    {
+                        "question": "Forests provide us with various products except:",
+                        "options": [
+                            "Timber for furniture",
+                            "Honey, gum and lac",
+                            "Medicinal plants",
+                            "Plastics"
+                        ],
+                        "answer": 3,
+                        "explanation": "Plastics are synthetic materials."
+                    },
+                    {
+                        "question": "Which is the national animal of India, mainly found in various parts of the country?",
+                        "options": [
+                            "Lion",
+                            "Elephant",
+                            "Tiger",
+                            "Leopard"
+                        ],
+                        "answer": 2,
+                        "explanation": "The tiger is our national animal."
+                    }
+                ]
+            }
         }
     }
 };
