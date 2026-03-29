@@ -24,6 +24,18 @@ document.addEventListener('DOMContentLoaded', () => {
     renderChapterList();
 
     // Event Listeners
+    classSelect.addEventListener('change', () => {
+        currentClass = classSelect.value;
+        resetToInitialState();
+        renderChapterList();
+    });
+
+    subjectSelect.addEventListener('change', () => {
+        currentSubject = subjectSelect.value;
+        resetToInitialState();
+        renderChapterList();
+    });
+
     resetBtn.addEventListener('click', () => {
         if (currentChapterId) {
             startQuiz(currentChapterId);
@@ -53,6 +65,26 @@ document.addEventListener('DOMContentLoaded', () => {
                 chapterList.appendChild(li);
             });
         }
+    }
+
+    function resetToInitialState() {
+        currentChapterId = null;
+        currentQuestions = [];
+        currentQuestionIndex = 0;
+        
+        currentChapterTitle.textContent = "Select a Chapter";
+        currentChapterSubtitle.textContent = "Choose a chapter from the sidebar to begin practicing rigorous MCQs.";
+        progressContainer.style.display = 'none';
+        quizCompletion.style.display = 'none';
+        
+        mcqContainer.innerHTML = `
+            <div class="empty-state">
+                <svg viewBox="0 0 24 24" width="48" height="48" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"></path>
+                </svg>
+                <p>Continuous learning leads to mastery.</p>
+            </div>
+        `;
     }
 
     function startQuiz(chapterId) {
