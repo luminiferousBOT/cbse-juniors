@@ -5353,5 +5353,2824 @@ const cbseData = {
                 ]
             }
         }
+    },
+    "7": {
+        "history": {
+            "title": "Our Pasts - II",
+            "chapters": [
+                {
+                    "id": "ch1",
+                    "title": "1. Tracing Changes Through A Thousand Years"
+                },
+                {
+                    "id": "ch2",
+                    "title": "2. New Kings And Kingdoms"
+                },
+                {
+                    "id": "ch3",
+                    "title": "3. The Delhi Sultans"
+                },
+                {
+                    "id": "ch4",
+                    "title": "4. The Mughal Empire"
+                },
+                {
+                    "id": "ch5",
+                    "title": "5. Rulers And Buildings"
+                },
+                {
+                    "id": "ch6",
+                    "title": "6. Towns, Traders And Craftspersons"
+                },
+                {
+                    "id": "ch7",
+                    "title": "7. Tribes, Nomads And Settled Communities"
+                },
+                {
+                    "id": "ch8",
+                    "title": "8. Devotional Paths To The Divine"
+                },
+                {
+                    "id": "ch9",
+                    "title": "9. The Making Of Regional Cultures"
+                },
+                {
+                    "id": "ch10",
+                    "title": "10. Eighteenth-Century Political Formations"
+                }
+            ],
+            "mcqs": {
+                "ch1": [
+                    {
+                        "question": "Who was al-Idrisi?",
+                        "options": [
+                            "An Arab geographer",
+                            "A French cartographer",
+                            "A Persian poet",
+                            "An Indian king"
+                        ],
+                        "answer": 0,
+                        "explanation": "Al-Idrisi was an Arab geographer who made a world map in 1154 CE."
+                    },
+                    {
+                        "question": "What is cartography?",
+                        "options": [
+                            "The study of stars",
+                            "The science of making maps",
+                            "The study of old manuscripts",
+                            "The study of coins"
+                        ],
+                        "answer": 1,
+                        "explanation": "Cartography is the science or practice of drawing maps."
+                    },
+                    {
+                        "question": "Which language was not a part of the medieval period in India?",
+                        "options": [
+                            "Persian",
+                            "Arabic",
+                            "Sanskrit",
+                            "English"
+                        ],
+                        "answer": 3,
+                        "explanation": "English became prominent much later, whereas Persian, Arabic, and Sanskrit were used in the medieval period."
+                    },
+                    {
+                        "question": "In the Middle Ages, what did the term 'foreigner' (Pardesi) mean?",
+                        "options": [
+                            "Someone from a different country",
+                            "Any stranger who was not part of that society or culture",
+                            "A trader from Europe",
+                            "An invader"
+                        ],
+                        "answer": 1,
+                        "explanation": "In the medieval period, a 'foreigner' was any stranger who was not a part of a particular society or village."
+                    },
+                    {
+                        "question": "Who used the term 'Hindustan' in the thirteenth century?",
+                        "options": [
+                            "Babur",
+                            "Minhaj-i-Siraj",
+                            "Amir Khusrau",
+                            "Al-Idrisi"
+                        ],
+                        "answer": 1,
+                        "explanation": "Minhaj-i-Siraj, a chronicler who wrote in Persian, used the term 'Hindustan' in the thirteenth century."
+                    },
+                    {
+                        "question": "To Minhaj-i-Siraj, 'Hindustan' meant:",
+                        "options": [
+                            "The entire Indian subcontinent",
+                            "The areas of Punjab, Haryana, and the lands between the Ganga and Yamuna",
+                            "South India only",
+                            "The lands ruled by the Mughals"
+                        ],
+                        "answer": 1,
+                        "explanation": "Minhaj-i-Siraj meant the areas of Punjab, Haryana, and the lands between the Ganga and Yamuna."
+                    },
+                    {
+                        "question": "Which new technology was introduced in weaving during this period?",
+                        "options": [
+                            "Persian wheel",
+                            "Spinning wheel",
+                            "Power loom",
+                            "Flying shuttle"
+                        ],
+                        "answer": 1,
+                        "explanation": "The spinning wheel was introduced in weaving during the medieval period."
+                    },
+                    {
+                        "question": "Which of these crops were introduced into the subcontinent during the medieval period?",
+                        "options": [
+                            "Potatoes, corn, chillies, tea and coffee",
+                            "Wheat, barley, rice",
+                            "Cotton, jute, indigo",
+                            "Mangoes, bananas, coconuts"
+                        ],
+                        "answer": 0,
+                        "explanation": "Potatoes, corn, chillies, tea, and coffee were introduced during this period."
+                    },
+                    {
+                        "question": "Archives are places where:",
+                        "options": [
+                            "Kings lived",
+                            "Bulls were worshipped",
+                            "Documents and manuscripts are stored",
+                            "Grains are stored"
+                        ],
+                        "answer": 2,
+                        "explanation": "Archives are places where historical documents and manuscripts are stored."
+                    },
+                    {
+                        "question": "Who copied manuscripts by hand before the invention of the printing press?",
+                        "options": [
+                            "Scribes",
+                            "Cartographers",
+                            "Artisans",
+                            "Peasants"
+                        ],
+                        "answer": 0,
+                        "explanation": "Scribes were people who copied manuscripts by hand."
+                    },
+                    {
+                        "question": "What is a 'Jati Panchayat'?",
+                        "options": [
+                            "A council of elders regulating the affairs of a jati",
+                            "The king's court",
+                            "A market committee",
+                            "A group of religious leaders"
+                        ],
+                        "answer": 0,
+                        "explanation": "Jati Panchayats were councils or assemblies of elders that enforced regulations among the members of their jati."
+                    },
+                    {
+                        "question": "Which group of people became politically important during the medieval period?",
+                        "options": [
+                            "Rajputs",
+                            "Mauryas",
+                            "Guptas",
+                            "Harappans"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Rajputs became an important and powerful group of people during the medieval period."
+                    },
+                    {
+                        "question": "Ziyauddin Barani was a fourteenth-century:",
+                        "options": [
+                            "Geographer",
+                            "Chronicler",
+                            "Poet",
+                            "King"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ziyauddin Barani was a fourteenth-century chronicler."
+                    },
+                    {
+                        "question": "Who was the fourteenth-century poet who used the word 'Hind'?",
+                        "options": [
+                            "Babur",
+                            "Akbar",
+                            "Amir Khusrau",
+                            "Minhaj-i-Siraj"
+                        ],
+                        "answer": 2,
+                        "explanation": "The poet Amir Khusrau used the word 'Hind' in the fourteenth century."
+                    },
+                    {
+                        "question": "Which new technology was used in irrigation during this period?",
+                        "options": [
+                            "Tubewells",
+                            "Persian wheel",
+                            "Canal locking",
+                            "Drip irrigation"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Persian wheel was introduced in irrigation during the medieval period."
+                    },
+                    {
+                        "question": "Who were considered 'Rajputs'?",
+                        "options": [
+                            "Sons of rulers",
+                            "A group claiming Kshatriya caste status",
+                            "Soldiers and commanders",
+                            "All of the above"
+                        ],
+                        "answer": 3,
+                        "explanation": "Rajput means 'son of a ruler'. Later, the term included soldiers, commanders, and those claiming Kshatriya caste status."
+                    },
+                    {
+                        "question": "Habitat refers to:",
+                        "options": [
+                            "Environment of a region and the social and economic lifestyle of its residents",
+                            "A special tax",
+                            "A type of ancient house",
+                            "A weapon"
+                        ],
+                        "answer": 0,
+                        "explanation": "Habitat refers to the environment of a region and the social and economic lifestyle of its residents."
+                    },
+                    {
+                        "question": "What led to the migration of forest-dwellers?",
+                        "options": [
+                            "Wars",
+                            "Gradual clearing of forests and extension of agriculture",
+                            "Floods",
+                            "earthquakes"
+                        ],
+                        "answer": 1,
+                        "explanation": "The gradual clearing of forests and the extension of agriculture forced many forest-dwellers to migrate."
+                    },
+                    {
+                        "question": "Brahmanas earned a lot of respect in society mainly because of:",
+                        "options": [
+                            "Their wealth",
+                            "Their knowledge of Sanskrit texts",
+                            "Their military skills",
+                            "Their trade networks"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Brahmanas' knowledge of Sanskrit texts earned them a lot of respect in society."
+                    },
+                    {
+                        "question": "Patrons in the medieval period were usually:",
+                        "options": [
+                            "Poor farmers",
+                            "Wealthy merchants",
+                            "Powerful and wealthy individuals who supported artists, craftspersons, or learned men",
+                            "Slaves"
+                        ],
+                        "answer": 2,
+                        "explanation": "Patrons were influential, wealthy individuals who supported another person - an artiste, a craftsperson, a learned man, or a noble."
+                    },
+                    {
+                        "question": "Which two major religions saw significant developments during this period?",
+                        "options": [
+                            "Hinduism and Islam",
+                            "Buddhism and Jainism",
+                            "Christianity and Judaism",
+                            "Sikhism and Zoroastrianism"
+                        ],
+                        "answer": 0,
+                        "explanation": "Important changes occurred in Hinduism and Islam during the medieval period."
+                    },
+                    {
+                        "question": "The idea of bhakti refers to:",
+                        "options": [
+                            "Blind faith in a king",
+                            "Performing complex sacrifices",
+                            "A loving, personal devotion to a deity without the aid of priests",
+                            "Worshipping nature"
+                        ],
+                        "answer": 2,
+                        "explanation": "Bhakti was the idea of a loving, personal deity that devotees could reach without the aid of priests or elaborate rituals."
+                    },
+                    {
+                        "question": "Historians divide the past into periods based on:",
+                        "options": [
+                            "Significant economic and social changes",
+                            "Changes in kings",
+                            "Changes in climate",
+                            "Changes in borders"
+                        ],
+                        "answer": 0,
+                        "explanation": "Historians divide the past into large segments or periods depending on significant economic and social changes."
+                    },
+                    {
+                        "question": "In the middle ages, the term 'Shia' and 'Sunni' are associated with:",
+                        "options": [
+                            "Hinduism",
+                            "Islam",
+                            "Jainism",
+                            "Buddhism"
+                        ],
+                        "answer": 1,
+                        "explanation": "Shia and Sunni are two major branches of Islam that emerged based on beliefs about the rightful leadership of the Muslim community."
+                    },
+                    {
+                        "question": "Which of these terms meant a 'city-dweller' in the past?",
+                        "options": [
+                            "Pardesi",
+                            "Ajnabi",
+                            "Nagarvasi",
+                            "Vanvasi"
+                        ],
+                        "answer": 2,
+                        "explanation": "While 'foreigners' were pardesi or ajnabi, a city-dweller or native to the town was different."
+                    }
+                ],
+                "ch2": [
+                    {
+                        "question": "Who were the 'samantas'?",
+                        "options": [
+                            "Kings",
+                            "Big landlords or warrior chiefs in different regions",
+                            "Traders",
+                            "Priests"
+                        ],
+                        "answer": 1,
+                        "explanation": "By the seventh century, there were big landlords or warrior chiefs in different regions whom kings acknowledged as their subordinates or samantas."
+                    },
+                    {
+                        "question": "What was the 'hiranya-garbha'?",
+                        "options": [
+                            "A golden bowl",
+                            "A ritual to be 'reborn' as a Kshatriya",
+                            "A type of tax",
+                            "A battle formation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hiranya-garbha literally means the golden womb. When this ritual was performed with the help of Brahmanas, it was thought to lead to the 'rebirth' of the sacrificer as a Kshatriya."
+                    },
+                    {
+                        "question": "The Rashtrakutas were initially subordinate to the:",
+                        "options": [
+                            "Cholas",
+                            "Chalukyas of Karnataka",
+                            "Pallavas",
+                            "Palas"
+                        ],
+                        "answer": 1,
+                        "explanation": "Initially, the Rashtrakutas in the Deccan were subordinate to the Chalukyas of Karnataka."
+                    },
+                    {
+                        "question": "Which Rashtrakuta chief overthrew his Chalukya overlord and performed the hiranya-garbha ritual?",
+                        "options": [
+                            "Dantidurga",
+                            "Krishna I",
+                            "Amoghavarsha",
+                            "Dhruva"
+                        ],
+                        "answer": 0,
+                        "explanation": "In the mid-Eighth century, Dantidurga, a Rashtrakuta chief, overthrew his Chalukya overlord and performed the hiranya-garbha."
+                    },
+                    {
+                        "question": "Kadamba Mayurasharman and Gurjara-Pratihara Harichandra were originally:",
+                        "options": [
+                            "Kshatriyas",
+                            "Vaishyas",
+                            "Brahmanas",
+                            "Shudras"
+                        ],
+                        "answer": 2,
+                        "explanation": "They were Brahmanas who gave up their traditional professions, took to arms, and successfully established kingdoms in Karnataka and Rajasthan respectively."
+                    },
+                    {
+                        "question": "The tripartite struggle in the medieval period was for the control over the city of:",
+                        "options": [
+                            "Kanauj",
+                            "Delhi",
+                            "Ujjain",
+                            "Pataliputra"
+                        ],
+                        "answer": 0,
+                        "explanation": "Rulers belonging to the Gurjara-Pratihara, Rashtrakuta, and Pala dynasties fought for control over Kanauj. This was termed the 'tripartite struggle' by historians."
+                    },
+                    {
+                        "question": "What was 'vetti' in the Chola empire?",
+                        "options": [
+                            "A form of tax collected as forced labour",
+                            "A land grant",
+                            "A type of coin",
+                            "A religious ceremony"
+                        ],
+                        "answer": 0,
+                        "explanation": "Vetti was a tax taken not in cash but in the form of forced labour by the Chola administration."
+                    },
+                    {
+                        "question": "Who invaded the Indian subcontinent from Afghanistan and raided the Somnath temple?",
+                        "options": [
+                            "Muhammad Ghori",
+                            "Sultan Mahmud of Ghazni",
+                            "Babur",
+                            "Nadir Shah"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sultan Mahmud of Ghazni from Afghanistan raided the subcontinent almost every year, and much of the wealth he looted was from wealthy temples like Somnath in Gujarat."
+                    },
+                    {
+                        "question": "Al-Biruni, a scholar entrusted by Mahmud of Ghazni, wrote an account of the subcontinent called:",
+                        "options": [
+                            "Tarikh-ul-Hind",
+                            "Kitab al-Hind",
+                            "Ain-i-Akbari",
+                            "Baburnama"
+                        ],
+                        "answer": 1,
+                        "explanation": "Al-Biruni wrote the Kitab al-Hind, an important source for historians regarding the Indian subcontinent."
+                    },
+                    {
+                        "question": "Which ruler defeated the Afghan ruler Sultan Muhammad Ghori in 1191?",
+                        "options": [
+                            "Prithviraja III",
+                            "Rajaraja Chola",
+                            "Mahmud of Ghazni",
+                            "Dantidurga"
+                        ],
+                        "answer": 0,
+                        "explanation": "Prithviraja III (1168-1192), a Chahamana ruler, defeated the Afghan ruler Sultan Muhammad Ghori in 1191."
+                    },
+                    {
+                        "question": "Which dynasty ruled the region around the Kaveri delta before the Cholas rose to power?",
+                        "options": [
+                            "Muttaraiyar",
+                            "Pallavas",
+                            "Pandyas",
+                            "Cheras"
+                        ],
+                        "answer": 0,
+                        "explanation": "A minor chiefly family known as the Muttaraiyar held power in the Kaveri delta. They were subordinate to the Pallava kings of Kanchipuram."
+                    },
+                    {
+                        "question": "Who built the town of Thanjavur and a temple for goddess Nishumbhasudini?",
+                        "options": [
+                            "Rajaraja I",
+                            "Rajendra I",
+                            "Vijayalaya",
+                            "Dantidurga"
+                        ],
+                        "answer": 2,
+                        "explanation": "Vijayalaya, belonging to the ancient chiefly family of the Cholas, captured the Kaveri delta and built the town of Thanjavur and a temple for goddess Nishumbhasudini."
+                    },
+                    {
+                        "question": "Who is considered the most powerful Chola ruler?",
+                        "options": [
+                            "Vijayalaya",
+                            "Aditya I",
+                            "Rajaraja I",
+                            "Parantaka I"
+                        ],
+                        "answer": 2,
+                        "explanation": "Rajaraja I, who became king in 985, is considered the most powerful Chola ruler and expanded control over most areas."
+                    },
+                    {
+                        "question": "The magnificent temples of Thanjavur and Gangaikondacholapuram were built by:",
+                        "options": [
+                            "Rajaraja and Rajendra",
+                            "Vijayalaya and Aditya",
+                            "Ashoka and Bindusara",
+                            "Harsha and Pulakeshin"
+                        ],
+                        "answer": 0,
+                        "explanation": "The big temples of Thanjavur and Gangaikondacholapuram, built by Rajaraja and Rajendra, are architectural and sculptural marvels."
+                    },
+                    {
+                        "question": "What is unique about Chola bronze images?",
+                        "options": [
+                            "They were mostly of rulers",
+                            "They are considered amongst the finest in the world",
+                            "They were very small",
+                            "They were plain without any decoration"
+                        ],
+                        "answer": 1,
+                        "explanation": "Chola bronze images are considered amongst the finest in the world, often depicting deities but sometimes also devotees."
+                    },
+                    {
+                        "question": "Settlements of peasants during the Chola period were known as:",
+                        "options": [
+                            "Nadu",
+                            "Ur",
+                            "Sabha",
+                            "Grama"
+                        ],
+                        "answer": 1,
+                        "explanation": "Settlements of peasants, known as ur, became prosperous with the spread of irrigation agriculture."
+                    },
+                    {
+                        "question": "What was 'nadu' in the Chola empire?",
+                        "options": [
+                            "A type of tax",
+                            "A group of villages",
+                            "A market town",
+                            "A temple chariot"
+                        ],
+                        "answer": 1,
+                        "explanation": "Groups of villages (ur) formed larger units called nadu, which performed administrative functions including dispensing justice and collecting taxes."
+                    },
+                    {
+                        "question": "Which title was given to wealthy landowners by Chola kings as a mark of respect?",
+                        "options": [
+                            "Muvendavelan",
+                            "Samanta",
+                            "Raja",
+                            "Sultan"
+                        ],
+                        "answer": 0,
+                        "explanation": "Titles like muvendavelan (a velan or peasant serving three kings) or araiyar (chief) were given as markers of respect."
+                    },
+                    {
+                        "question": "Land granted to Brahmanas was known as:",
+                        "options": [
+                            "Brahmadeya",
+                            "Devadana",
+                            "Vellanvagai",
+                            "Pallichchhandam"
+                        ],
+                        "answer": 0,
+                        "explanation": "Brahmanas often received land grants or brahmadeya, leading to the emergence of numerous Brahmana settlements in the Kaveri valley."
+                    },
+                    {
+                        "question": "What is 'Vellanvagai'?",
+                        "options": [
+                            "Land of non-Brahmana peasant proprietors",
+                            "Land gifted to temples",
+                            "Land meant for the maintenance of a school",
+                            "Land donated to Jaina institutions"
+                        ],
+                        "answer": 0,
+                        "explanation": "According to Chola inscriptions, Vellanvagai was the land of non-Brahmana peasant proprietors."
+                    },
+                    {
+                        "question": "What was 'Devadana' or 'Tirunamattukkani'?",
+                        "options": [
+                            "Land gifted to temples",
+                            "Land given to warriors",
+                            "Land for Brahmanas",
+                            "Land for Jaina institutions"
+                        ],
+                        "answer": 0,
+                        "explanation": "Devadana or Tirunamattukkani refers to land gifted to temples."
+                    },
+                    {
+                        "question": "Associations of traders were known as:",
+                        "options": [
+                            "Nagarams",
+                            "Sabhas",
+                            "Samantas",
+                            "Ur"
+                        ],
+                        "answer": 0,
+                        "explanation": "Associations of traders known as nagarams also occasionally performed administrative functions in towns."
+                    },
+                    {
+                        "question": "The details of how the sabha (assembly) was organized are provided in the inscriptions from:",
+                        "options": [
+                            "Uttaramerur",
+                            "Thanjavur",
+                            "Kanchipuram",
+                            "Madurai"
+                        ],
+                        "answer": 0,
+                        "explanation": "Inscriptions from Uttaramerur in Chingleput district, Tamil Nadu, provide details of the way the sabha was organized into various committees."
+                    },
+                    {
+                        "question": "What was a pre-requisite for becoming a member of a sabha committee?",
+                        "options": [
+                            "Must own the land from which land revenue is collected",
+                            "Must be a woman",
+                            "Must not know the Vedas",
+                            "Must be a trader"
+                        ],
+                        "answer": 0,
+                        "explanation": "Candidates must own land from which land revenue is collected, have their own homes, be between 35 and 70 years, and have knowledge of the Vedas."
+                    },
+                    {
+                        "question": "Who was the author of the long Sanskrit poem containing the history of kings who ruled over Kashmir?",
+                        "options": [
+                            "Kalhana",
+                            "Al-Biruni",
+                            "Amir Khusrau",
+                            "Banabhatta"
+                        ],
+                        "answer": 0,
+                        "explanation": "A long Sanskrit poem detailing the history of Kashmir's kings was composed by an author named Kalhana, who used various sources to write his account."
+                    }
+                ],
+                "ch3": [
+                    {
+                        "question": "Who first became the capital of a kingdom under the Tomara Rajputs?",
+                        "options": [
+                            "Delhi",
+                            "Agra",
+                            "Ajmer",
+                            "Kanauj"
+                        ],
+                        "answer": 0,
+                        "explanation": "Delhi first became the capital of a kingdom under the Tomara Rajputs, who were defeated in the middle of the twelfth century by the Chauhans."
+                    },
+                    {
+                        "question": "The coins minted in Delhi, which had a wide circulation, were called:",
+                        "options": [
+                            "Delhiwal",
+                            "Tanka",
+                            "Rupiya",
+                            "Jital"
+                        ],
+                        "answer": 0,
+                        "explanation": "Many rich Jaina merchants lived in the city and constructed several temples. Coins minted here, called dehliwal, had a wide circulation."
+                    },
+                    {
+                        "question": "What is 'Tarikh' (singular) or 'Tawarikh' (plural)?",
+                        "options": [
+                            "Histories written in Persian",
+                            "Types of coins",
+                            "Taxes on land",
+                            "Names of Sultanate capitals"
+                        ],
+                        "answer": 0,
+                        "explanation": "Valuable histories, called tarikh (singular) or tawarikh (plural), were written in Persian, the language of administration under the Delhi Sultans."
+                    },
+                    {
+                        "question": "Who were the authors of 'tawarikh'?",
+                        "options": [
+                            "Peasants",
+                            "Learned men: secretaries, administrators, poets and courtiers",
+                            "Foreign travelers",
+                            "Slaves and military men"
+                        ],
+                        "answer": 1,
+                        "explanation": "The authors of tawarikh were learned men: secretaries, administrators, poets and courtiers, who both recounted events and advised rulers on governance."
+                    },
+                    {
+                        "question": "The authors of tawarikh advised rulers on the need to preserve an 'ideal' social order based on:",
+                        "options": [
+                            "Democracy and equality",
+                            "Birthright and gender distinctions",
+                            "Wealth and property",
+                            "Education and skill"
+                        ],
+                        "answer": 1,
+                        "explanation": "They advised rulers on the need to preserve an 'ideal' social order based on birthright and gender distinctions, which were not shared by everybody."
+                    },
+                    {
+                        "question": "In 1236, who became the Sultan of Delhi?",
+                        "options": [
+                            "Iltutmish",
+                            "Raziyya",
+                            "Balban",
+                            "Alauddin Khalji"
+                        ],
+                        "answer": 1,
+                        "explanation": "In 1236, Sultan Iltutmish's daughter, Raziyya, became Sultan. The chronicler Minhaj-i Siraj recognized that she was more able and qualified than all her brothers."
+                    },
+                    {
+                        "question": "What is a 'garrison town'?",
+                        "options": [
+                            "A fortified settlement with soldiers",
+                            "A town famous for markets",
+                            "A religious center",
+                            "A temporary camp"
+                        ],
+                        "answer": 0,
+                        "explanation": "A garrison town is a fortified settlement, with soldiers."
+                    },
+                    {
+                        "question": "What is a 'hinterland'?",
+                        "options": [
+                            "A fortified settlement",
+                            "The lands adjacent to a city or port that supply it with goods and services",
+                            "A special tax",
+                            "An administrative division"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hinterland describes the lands adjacent to a city or port that supply it with goods and services."
+                    },
+                    {
+                        "question": "Which ruler's campaigns along the 'internal frontier' aimed at consolidating the hinterlands of the garrison towns?",
+                        "options": [
+                            "Raziyya",
+                            "Qutbuddin Aybak",
+                            "Ghiyasuddin Balban",
+                            "Ibrahim Lodi"
+                        ],
+                        "answer": 2,
+                        "explanation": "Campaigns along the 'internal frontier' of the Sultanate aimed at consolidating the hinterlands of the garrison towns, particularly during the reigns of Balban, Alauddin Khalji and Muhammad Tughluq."
+                    },
+                    {
+                        "question": "Who built the Quwwat al-Islam mosque?",
+                        "options": [
+                            "Qutbuddin Aybak",
+                            "Iltutmish",
+                            "Delhi Sultans together",
+                            "Alauddin Khalji"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Quwwat al-Islam mosque and minaret were built during the last decade of the twelfth century... The mosque was enlarged by Iltutmish and Alauddin Khalji."
+                    },
+                    {
+                        "question": "A 'masjid' is a place where:",
+                        "options": [
+                            "A Muslim prostrates in reverence to Allah",
+                            "Merchants meet",
+                            "Soldiers are trained",
+                            "The Sultan holds court"
+                        ],
+                        "answer": 0,
+                        "explanation": "A mosque is called a masjid in Arabic, literally a place where a Muslim prostrates in reverence to Allah."
+                    },
+                    {
+                        "question": "The early Delhi Sultans, especially Iltutmish, favored their special slaves purchased for military service, called:",
+                        "options": [
+                            "Bandagan",
+                            "Iqtadars",
+                            "Samantas",
+                            "Amirs"
+                        ],
+                        "answer": 0,
+                        "explanation": "Iltutmish favoured their special slaves purchased for military service, called bandagan in Persian. They were carefully trained to man some of the most important political offices in the kingdom."
+                    },
+                    {
+                        "question": "The Khaljis and Tughluqs appointed military commanders as governors of territories of varying sizes, which were called:",
+                        "options": [
+                            "Iqta",
+                            "Suba",
+                            "Khalisa",
+                            "Mandal"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Khaljis and Tughluqs continued to use bandagan and appointed military commanders as governors of territories of varying sizes. These lands were called iqta."
+                    },
+                    {
+                        "question": "The holder of an 'iqta' was called an:",
+                        "options": [
+                            "Iqtadar or muqti",
+                            "Amir",
+                            "Subadar",
+                            "Mansabdar"
+                        ],
+                        "answer": 0,
+                        "explanation": "Their holder was called iqtadar or muqti."
+                    },
+                    {
+                        "question": "What was the duty of the muqtis?",
+                        "options": [
+                            "To lead military campaigns and maintain law and order in their iqtas",
+                            "To translate Persian texts",
+                            "To trade with foreign nations",
+                            "To mint coins"
+                        ],
+                        "answer": 0,
+                        "explanation": "The duty of the muqtis was to lead military campaigns and maintain law and order in their iqtas."
+                    },
+                    {
+                        "question": "How did muqtis get paid?",
+                        "options": [
+                            "From the royal treasury in gold",
+                            "They extracted revenues of their assignments as salary",
+                            "They were not paid",
+                            "By capturing neighboring kingdoms"
+                        ],
+                        "answer": 1,
+                        "explanation": "In exchange for their military services, the muqtis collected the revenues of their assignments as salary. They also paid their soldiers from these revenues."
+                    },
+                    {
+                        "question": "Under Alauddin Khalji, the state brought the assessment and collection of which tax under its own control?",
+                        "options": [
+                            "Kharaj (land revenue)",
+                            "Jizya",
+                            "Zakat",
+                            "Chauth"
+                        ],
+                        "answer": 0,
+                        "explanation": "Under Alauddin Khalji, the state brought the assessment and collection of land revenue under its own control. The rights of the local chieftains to levy taxes were cancelled."
+                    },
+                    {
+                        "question": "Khraj, a tax on cultivation, amounted to about what percentage of the peasant's produce?",
+                        "options": [
+                            "10 per cent",
+                            "25 per cent",
+                            "50 per cent",
+                            "90 per cent"
+                        ],
+                        "answer": 2,
+                        "explanation": "There were three types of taxes: (1) on cultivation called kharaj and amounting to about 50 per cent of the peasant's produce..."
+                    },
+                    {
+                        "question": "Who was the Mongol leader who invaded Transoxiana in north-east Iran in 1219?",
+                        "options": [
+                            "Timur",
+                            "Genghis Khan",
+                            "Kublai Khan",
+                            "Hulagu Khan"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Mongols under Genghis Khan invaded Transoxiana in north-east Iran in 1219 and the Delhi Sultanate faced their onslaught soon after."
+                    },
+                    {
+                        "question": "Which Sultan constructed a new garrison town named Siri for his soldiers?",
+                        "options": [
+                            "Iltutmish",
+                            "Alauddin Khalji",
+                            "Muhammad Tughluq",
+                            "Balban"
+                        ],
+                        "answer": 1,
+                        "explanation": "Alauddin constructed a new garrison town named Siri for his soldiers."
+                    },
+                    {
+                        "question": "Instead of constructing a new garrison town, which Sultan emptied the oldest of the four cities of Delhi (Dehli-i Kuhna) and made it a soldier camp?",
+                        "options": [
+                            "Alauddin Khalji",
+                            "Muhammad Tughluq",
+                            "Firoz Shah Tughluq",
+                            "Sikandar Lodi"
+                        ],
+                        "answer": 1,
+                        "explanation": "Rather than constructing a new garrison town, the oldest of the four cities of Delhi (Dehli-i Kuhna) was emptied of its residents and the soldiers garrisoned there."
+                    },
+                    {
+                        "question": "Where did Muhammad Tughluq force the residents of Dehli-i Kuhna to move?",
+                        "options": [
+                            "Agra",
+                            "Daulatabad",
+                            "Lahore",
+                            "Jaunpur"
+                        ],
+                        "answer": 1,
+                        "explanation": "The residents of the old city were sent to the new capital of Daulatabad in the south."
+                    },
+                    {
+                        "question": "To pay the soldiers, Muhammad Tughluq used a 'token' currency, made out of:",
+                        "options": [
+                            "Gold and silver",
+                            "Cheap metals, not gold and silver",
+                            "Leather",
+                            "Paper"
+                        ],
+                        "answer": 1,
+                        "explanation": "Muhammad Tughluq also paid his soldiers cash salaries but instead of controlling prices, he used a 'token' currency, made out of cheap metals, not gold and silver."
+                    },
+                    {
+                        "question": "Who succeeded the Tughluqs and ruled from Delhi and Agra until 1526?",
+                        "options": [
+                            "Sayyid and Lodi dynasties",
+                            "Mughals",
+                            "Rajputs",
+                            "Marathas"
+                        ],
+                        "answer": 0,
+                        "explanation": "After the Tughluqs, the Sayyid and Lodi dynasties ruled from Delhi and Agra until 1526."
+                    },
+                    {
+                        "question": "Sher Shah Suri started his career as:",
+                        "options": [
+                            "A sultan in Delhi",
+                            "The manager of a small territory for his uncle in Bihar",
+                            "A general in the Mongol army",
+                            "A wealthy merchant"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sher Shah Suri (1540-1545) started his career as the manager of a small territory for his uncle in Bihar and eventually challenged and defeated the Mughal emperor Humayun."
+                    }
+                ],
+                "ch4": [
+                    {
+                        "question": "The Mughals were descendants of two great lineages of rulers. From their mother's side, they were descendants of:",
+                        "options": [
+                            "Timur",
+                            "Genghis Khan",
+                            "Alauddin Khalji",
+                            "Sher Shah Suri"
+                        ],
+                        "answer": 1,
+                        "explanation": "From their mother's side, they were descendants of Genghis Khan (died 1227), ruler of the Mongol tribes, China and Central Asia."
+                    },
+                    {
+                        "question": "From their father's side, the Mughals were the successors of:",
+                        "options": [
+                            "Genghis Khan",
+                            "Timur",
+                            "Babur",
+                            "Iltutmish"
+                        ],
+                        "answer": 1,
+                        "explanation": "From their father's side, they were the successors of Timur (died 1404), the ruler of Iran, Iraq and modern-day Turkey."
+                    },
+                    {
+                        "question": "Which ancestry did the Mughals prefer to be associated with?",
+                        "options": [
+                            "Mongol ancestry (Genghis Khan)",
+                            "Timurid ancestry",
+                            "Afghan ancestry",
+                            "Rajput ancestry"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Mughals did not like to be called Mughal or Mongol... On the other hand, the Mughals were proud of their Timurid ancestry, not least of all because their great ancestor had captured Delhi in 1398."
+                    },
+                    {
+                        "question": "Who was the first Mughal emperor?",
+                        "options": [
+                            "Humayun",
+                            "Akbar",
+                            "Babur",
+                            "Jahangir"
+                        ],
+                        "answer": 2,
+                        "explanation": "Babur, the first Mughal emperor (1526-1530)."
+                    },
+                    {
+                        "question": "Babur defeated the Sultan of Delhi, Ibrahim Lodi, in 1526 at the battle of:",
+                        "options": [
+                            "Panipat",
+                            "Khanwa",
+                            "Chanderi",
+                            "Haldighati"
+                        ],
+                        "answer": 0,
+                        "explanation": "In 1526 he defeated the Sultan of Delhi, Ibrahim Lodi, at Panipat and captured Delhi and Agra."
+                    },
+                    {
+                        "question": "Primogeniture refers to the rule of inheritance where:",
+                        "options": [
+                            "The eldest son inherits his father's estate",
+                            "The estate is divided equally amongst all sons",
+                            "The estate is inherited by the wife",
+                            "The youngest son inherits the estate"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Mughals did not believe in the rule of primogeniture, where the eldest son inherited his father's estate."
+                    },
+                    {
+                        "question": "Instead of primogeniture, the Mughals followed the custom of:",
+                        "options": [
+                            "Matrilineal descent",
+                            "Coparcenary inheritance",
+                            "Electoral monarchy",
+                            "Adoption"
+                        ],
+                        "answer": 1,
+                        "explanation": "Instead they followed the Mughal and Timurid custom of coparcenary inheritance, or a division of the inheritance amongst all the sons."
+                    },
+                    {
+                        "question": "Those who joined Mughal service were enrolled as:",
+                        "options": [
+                            "Mansabdars",
+                            "Samantas",
+                            "Iqtadars",
+                            "Subadars"
+                        ],
+                        "answer": 0,
+                        "explanation": "As the empire expanded to encompass different regions the Mughals recruited diverse bodies of people. Those who joined Mughal service were enrolled as mansabdars."
+                    },
+                    {
+                        "question": "The term 'mansabdar' refers to an individual who holds a 'mansab', meaning:",
+                        "options": [
+                            "A religious title",
+                            "A position or rank",
+                            "A type of land",
+                            "A tax exemption"
+                        ],
+                        "answer": 1,
+                        "explanation": "The term mansabdar refers to an individual who holds a mansab, meaning a position or rank."
+                    },
+                    {
+                        "question": "What three things were determined by the mansabdari grading system?",
+                        "options": [
+                            "Rank, salary and military responsibilities",
+                            "Religion, caste and region",
+                            "Age, height and weight",
+                            "Tax, land and titles"
+                        ],
+                        "answer": 0,
+                        "explanation": "It was a grading system used by the Mughals to fix (1) rank, (2) salary and (3) military responsibilities."
+                    },
+                    {
+                        "question": "Rank and salary in the mansabdari system were determined by a numerical value called:",
+                        "options": [
+                            "Zat",
+                            "Sawar",
+                            "Jagir",
+                            "Kharaj"
+                        ],
+                        "answer": 0,
+                        "explanation": "Rank and salary were determined by a numerical value called zat. The higher the zat, the more prestigious was the noble's position in court and the larger his salary."
+                    },
+                    {
+                        "question": "Mansabdars received their salaries as revenue assignments called:",
+                        "options": [
+                            "Iqtas",
+                            "Jagirs",
+                            "Khalisa",
+                            "Inam"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mansabdars received their salaries as revenue assignments called jagirs which were somewhat like iqtas."
+                    },
+                    {
+                        "question": "Unlike muqtis, most mansabdars did not actually reside in or administer their:",
+                        "options": [
+                            "Capital",
+                            "Jagirs",
+                            "Palaces",
+                            "Forts"
+                        ],
+                        "answer": 1,
+                        "explanation": "Unlike muqtis, most mansabdars did not actually reside in or administer their jagirs. They only had rights to the revenue of their assignments which was collected for them by their servants..."
+                    },
+                    {
+                        "question": "What was 'Zabt' in the Mughal empire?",
+                        "options": [
+                            "A strict religious law",
+                            "A revenue system based on a careful survey of crop yields and prices",
+                            "A punishment",
+                            "A type of army division"
+                        ],
+                        "answer": 1,
+                        "explanation": "Each province was divided into revenue circles with its own schedule of revenue rates for individual crops. This revenue system was known as zabt."
+                    },
+                    {
+                        "question": "Who was Akbar's revenue minister who carried out the careful survey of crops, prices and areas?",
+                        "options": [
+                            "Birbal",
+                            "Todar Mal",
+                            "Abul Fazl",
+                            "Raja Man Singh"
+                        ],
+                        "answer": 1,
+                        "explanation": "Akbar's revenue minister, Todar Mal, carried out a careful survey of crop yields, prices and areas cultivated for a 10-year period (1570-1580)."
+                    },
+                    {
+                        "question": "Who wrote 'Akbar Nama', the history of Akbar's reign?",
+                        "options": [
+                            "Todar Mal",
+                            "Faizi",
+                            "Abul Fazl",
+                            "Jahangir"
+                        ],
+                        "answer": 2,
+                        "explanation": "Akbar ordered one of his close friends and courtiers, Abul Fazl, to write a history of his reign. Abul Fazl wrote a three-volume history of Akbar's reign, titled Akbar Nama."
+                    },
+                    {
+                        "question": "What is the third volume of the Akbar Nama called, which deals with Akbar's administration?",
+                        "options": [
+                            "Ain-i Akbari",
+                            "Tuzuk-i-Baburi",
+                            "Tarikh-i-Firoz Shahi",
+                            "Ibadat Khana"
+                        ],
+                        "answer": 0,
+                        "explanation": "The third volume is the Ain-i Akbari. It deals with Akbar's administration, household, army, the revenues and the geography of his empire."
+                    },
+                    {
+                        "question": "Akbar divided his empire into provinces called:",
+                        "options": [
+                            "Subas",
+                            "Iqtas",
+                            "Sarkars",
+                            "Parganas"
+                        ],
+                        "answer": 0,
+                        "explanation": "The empire was divided into provinces called subas, governed by a subadar..."
+                    },
+                    {
+                        "question": "The financial officer of a suba was known as the:",
+                        "options": [
+                            "Subadar",
+                            "Diwan",
+                            "Bakhshi",
+                            "Faujdar"
+                        ],
+                        "answer": 1,
+                        "explanation": "For the maintenance of peace and order in his province, the subadar was supported by other officers such as the military paymaster (bakhshi), the minister in charge of religious and charitable patronage (sadr), military commanders (faujdars) and the town police commander (kotwal). The financial officer was the diwan."
+                    },
+                    {
+                        "question": "The discussions at the ibadat khana led Akbar to the idea of 'sulh-i kul' or:",
+                        "options": [
+                            "Universal peace",
+                            "Holy war",
+                            "Divine kingship",
+                            "Absolute power"
+                        ],
+                        "answer": 0,
+                        "explanation": "This interaction with people of different faiths made Akbar realise that religious scholars who emphasised ritual and dogma were often bigots. Their teachings created divisions and disharmony amongst his subjects. This eventually led Akbar to the idea of sulh-i kul or 'universal peace'."
+                    },
+                    {
+                        "question": "Which emperor is well known for following Akbar's policy of 'sulh-i kul'?",
+                        "options": [
+                            "Jahangir and Shah Jahan",
+                            "Aurangzeb",
+                            "Babur",
+                            "Humayun"
+                        ],
+                        "answer": 0,
+                        "explanation": "Abul Fazl helped Akbar in framing a vision of governance around this idea of sulh-i kul... This principle of governance was followed by Jahangir and Shah Jahan as well."
+                    },
+                    {
+                        "question": "During Shah Jahan's reign, the highest-ranking mansabdars were exceptionally:",
+                        "options": [
+                            "Large in number",
+                            "Small in number",
+                            "Rebellious",
+                            "Poor"
+                        ],
+                        "answer": 1,
+                        "explanation": "In the 20th year of Shah Jahan's reign, the highest-ranking mansabdars were only 445 in number out of a total of 8,000."
+                    },
+                    {
+                        "question": "The word 'zamingdar' in the Mughal administration stood for:",
+                        "options": [
+                            "All intermediaries, whether local headmen or powerful chieftains",
+                            "Only the king",
+                            "Slaves",
+                            "Merchants"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Mughals used one term – zamindars – to describe all intermediaries, whether they were local headmen of villages or powerful chieftains."
+                    },
+                    {
+                        "question": "Which Mughal Emperor faced the Maratha campaigns led by Shivaji?",
+                        "options": [
+                            "Akbar",
+                            "Jahangir",
+                            "Shah Jahan",
+                            "Aurangzeb"
+                        ],
+                        "answer": 3,
+                        "explanation": "Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals."
+                    },
+                    {
+                        "question": "Who was Nur Jahan?",
+                        "options": [
+                            "Wife of Jahangir",
+                            "Wife of Akbar",
+                            "Daughter of Babur",
+                            "Mother of Shah Jahan"
+                        ],
+                        "answer": 0,
+                        "explanation": "Mehrunnisa married the Emperor Jahangir in 1611 and received the title Nur Jahan."
+                    }
+                ],
+                "ch5": [
+                    {
+                        "question": "Qutb Minar was built by:",
+                        "options": [
+                            "Qutbuddin Aybak and Iltutmish",
+                            "Akbar and Jahangir",
+                            "Babar",
+                            "Alauddin Khalji"
+                        ],
+                        "answer": 0,
+                        "explanation": "Qutbuddin Aybak had this monument constructed around 1199... The rest was completed by Iltutmish around 1229."
+                    },
+                    {
+                        "question": "During the Middle Ages, what were the two kinds of structures built by kings?",
+                        "options": [
+                            "Forts/palaces and structures meant for public activity (temples, mosques, etc.)",
+                            "Schools and hospitals",
+                            "Railways and airports",
+                            "Offices and factories"
+                        ],
+                        "answer": 0,
+                        "explanation": "Between the eighth and the eighteenth centuries kings and their officers built two kinds of structures: the first were forts, palaces, garden residences... second were structures meant for public activity including temples, mosques, tanks..."
+                    },
+                    {
+                        "question": "What architectural style is called 'trabeate' or 'corbelled'?",
+                        "options": [
+                            "Placing a horizontal beam across two vertical columns",
+                            "Building huge domes over arches",
+                            "Using steel rebars",
+                            "Making pointed roofs with tiles"
+                        ],
+                        "answer": 0,
+                        "explanation": "Between the seventh and tenth centuries architects started adding more rooms, doors and windows to buildings. Roofs, doors and windows were still made by placing a horizontal beam across two vertical columns, a style of architecture called 'trabeate' or 'corbelled'."
+                    },
+                    {
+                        "question": "The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by:",
+                        "options": [
+                            "King Dhangadeva of the Chandela dynasty",
+                            "King Rajaraja Chola",
+                            "Ruler of the Rashtrakuta dynasty",
+                            "The Pallavas"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by the king Dhangadeva of the Chandela dynasty."
+                    },
+                    {
+                        "question": "What was the 'shikhara' of a temple?",
+                        "options": [
+                            "The main hall",
+                            "The highest roof/tower above the main shrine",
+                            "The entrance gateway",
+                            "The place for ritual dances"
+                        ],
+                        "answer": 1,
+                        "explanation": "The main shrine is generally located directly under the tallest tower, called the shikhara."
+                    },
+                    {
+                        "question": "The Rajarajeshvara temple was built in:",
+                        "options": [
+                            "Thanjavur",
+                            "Kanchipuram",
+                            "Madurai",
+                            "Delhi"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time."
+                    },
+                    {
+                        "question": "How did they build the tall shikhara of the Rajarajeshvara temple?",
+                        "options": [
+                            "They built an inclined path to the top so elephants could pull the stone",
+                            "They used modern cranes",
+                            "They carved it from top to bottom from a single rock",
+                            "They used wooden scaffolding that could bear any weight"
+                        ],
+                        "answer": 0,
+                        "explanation": "There were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple..."
+                    },
+                    {
+                        "question": "From the twelfth century, what architectural innovation gave rise to the 'arcuate' style?",
+                        "options": [
+                            "The use of true arches where the keystone transferred the weight",
+                            "The use of long wooden beams",
+                            "Building flat roofs out of concrete",
+                            "Using paper mache"
+                        ],
+                        "answer": 0,
+                        "explanation": "The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural form was called 'arcuate'."
+                    },
+                    {
+                        "question": "In construction, what material started being used increasingly from the twelfth century because it was high-quality and hardened into fast-setting concrete?",
+                        "options": [
+                            "Limestone cement",
+                            "Mud",
+                            "Tar",
+                            "Bronze"
+                        ],
+                        "answer": 0,
+                        "explanation": "Limestone cement was increasingly used in construction. This was very high-quality cement, which, when mixed with stone chips hardened into concrete."
+                    },
+                    {
+                        "question": "Muslim Sultans did not claim to be incarnations of God but Persian court chronicles described the Sultan as:",
+                        "options": [
+                            "The Shadow of God",
+                            "The brother of God",
+                            "Equal to God",
+                            "A temple priest"
+                        ],
+                        "answer": 0,
+                        "explanation": "Muslim Sultans and Padshahs did not claim to be incarnations of God but Persian court chronicles described the Sultan as the 'Shadow of God'."
+                    },
+                    {
+                        "question": "Which Sultan won universal respect for constructing a large reservoir just outside Dehli-i-Kuhna called Hauz-i-Sultani?",
+                        "options": [
+                            "Iltutmish",
+                            "Balban",
+                            "Alauddin Khalji",
+                            "Qutbuddin Aybak"
+                        ],
+                        "answer": 0,
+                        "explanation": "Sultan Iltutmish won universal respect for constructing a large reservoir just outside Dehli-i-Kuhna. It was called the Hauz-i-Sultani or the 'King's Reservoir'."
+                    },
+                    {
+                        "question": "Why did temples become targets of attack when kings attacked one another's kingdoms?",
+                        "options": [
+                            "Because kings built temples to demonstrate their devotion to God and their power and wealth",
+                            "Because temples were the only places with food",
+                            "Because kings did not like religion",
+                            "To stop priests from ruling"
+                        ],
+                        "answer": 0,
+                        "explanation": "Because kings built temples to demonstrate their devotion to God and their power and wealth, it is not surprising that when they attacked one another's kingdoms they often targeted these buildings."
+                    },
+                    {
+                        "question": "Which king invaded Sri Lanka and took away the statue of the Buddha made entirely of gold?",
+                        "options": [
+                            "Pandyan king Shrimara Shrivallabha",
+                            "Chola king Rajendra I",
+                            "Sultan Mahmud of Ghazni",
+                            "Dantidurga"
+                        ],
+                        "answer": 0,
+                        "explanation": "In the early ninth century when the Pandyan king Shrimara Shrivallabha invaded Sri Lanka and defeated the king... He removed all the valuables... The statue of the Buddha made entirely of gold in the Jewel Palace..."
+                    },
+                    {
+                        "question": "When the Chola king Rajendra I built a Shiva temple in his capital, he filled it with:",
+                        "options": [
+                            "Prized statues seized from defeated rulers",
+                            "Grains",
+                            "Wooden toys",
+                            "Only silver coins"
+                        ],
+                        "answer": 0,
+                        "explanation": "In the early eleventh century, when the Chola king Rajendra I built a Shiva temple in his capital he filled it with prized statues seized from defeated rulers."
+                    },
+                    {
+                        "question": "Babur laid out formal gardens placed within rectangular walled enclosures and divided into four quarters, which were called:",
+                        "options": [
+                            "Chahar bagh",
+                            "Bagh-e-Eram",
+                            "Jannat",
+                            "Bagh-i-Fiza"
+                        ],
+                        "answer": 0,
+                        "explanation": "These gardens were called chahar bagh, four gardens, because of their symmetrical division into quarters."
+                    },
+                    {
+                        "question": "The central towering dome and the tall gateway (pishtaq) became important aspects of Mughal architecture, first visible in:",
+                        "options": [
+                            "Humayun's tomb",
+                            "The Taj Mahal",
+                            "Panch Mahal",
+                            "Qutb Minar"
+                        ],
+                        "answer": 0,
+                        "explanation": "The central towering dome and the tall gateway (pishtaq) became important aspects of Mughal architecture, first visible in Humayun's tomb."
+                    },
+                    {
+                        "question": "The tradition of 'eight paradises' or hasht bihisht in Mughal architecture means:",
+                        "options": [
+                            "A central hall surrounded by eight rooms",
+                            "Eight separate gardens",
+                            "A building with eight domes",
+                            "Eight doors on each side"
+                        ],
+                        "answer": 0,
+                        "explanation": "The tomb was placed in the centre of a huge formal chahar bagh and built in the tradition known as 'eight paradises' or hasht bihisht - a central hall surrounded by eight rooms."
+                    },
+                    {
+                        "question": "During Shah Jahan's reign, the diwan-i khas o aam (public and private audience halls) were also described as 'chihil sutun' meaning:",
+                        "options": [
+                            "Forty-pillared halls",
+                            "Forty-doored halls",
+                            "Forty-windowed halls",
+                            "Forty-domed halls"
+                        ],
+                        "answer": 0,
+                        "explanation": "These courts were also described as chihil sutun or forty-pillared halls, placed within a large courtyard."
+                    },
+                    {
+                        "question": "Shah Jahan's audience hall was specially constructed to resemble a:",
+                        "options": [
+                            "Mosque",
+                            "Church",
+                            "Market",
+                            "Temple"
+                        ],
+                        "answer": 0,
+                        "explanation": "Shah Jahan's audience halls were specially constructed to resemble a mosque. The pedestal on which his throne was placed was frequently described as the qibla, the direction faced by Muslims at prayer."
+                    },
+                    {
+                        "question": "What is 'pietra dura'?",
+                        "options": [
+                            "Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns",
+                            "A type of pillar",
+                            "A method of painting",
+                            "A water fountain technique"
+                        ],
+                        "answer": 0,
+                        "explanation": "Behind the emperor's throne were a series of pietra dura inlays... Pietra dura are coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns."
+                    },
+                    {
+                        "question": "The Taj Mahal was constructed in:",
+                        "options": [
+                            "Agra",
+                            "Delhi",
+                            "Lahore",
+                            "Kabul"
+                        ],
+                        "answer": 0,
+                        "explanation": "The architectural majesty of Shah Jahan's reign was best adapted in the river-front garden in the layout of the Taj Mahal at Agra."
+                    },
+                    {
+                        "question": "In Shahjahanabad, Shah Jahan's new city in Delhi, who was allowed access to the Yamuna river-front?",
+                        "options": [
+                            "Only specially favoured nobles, like his eldest son Dara Shukoh",
+                            "All citizens",
+                            "Ordinary merchants",
+                            "The army only"
+                        ],
+                        "answer": 0,
+                        "explanation": "Only specially favoured nobles - like his eldest son Dara Shukoh - were given access to the river. All others had to construct their homes in the city away from the River Yamuna."
+                    },
+                    {
+                        "question": "What was the 'Bangla dome' that the Mughals adapted in their architecture?",
+                        "options": [
+                            "A roof designed to resemble a thatched hut",
+                            "A dome made of glass",
+                            "A dome with a hole in the center",
+                            "A square-shaped dome"
+                        ],
+                        "answer": 0,
+                        "explanation": "In Bengal, for example, the local rulers had developed a roof that was designed to resemble a thatched hut. The Mughals liked this 'Bangla dome' so much that they used it in their architecture."
+                    },
+                    {
+                        "question": "Which temples in Vrindavan, near Mathura, were constructed in architectural styles very similar to the Mughal palaces in Fatehpur Sikri?",
+                        "options": [
+                            "Govind Deva temple",
+                            "Kandariya Mahadeva temple",
+                            "Rajarajeshvara temple",
+                            "Jagannath temple"
+                        ],
+                        "answer": 0,
+                        "explanation": "Temples in Vrindavan, near Mathura, were constructed in architectural styles that were very similar to the Mughal palaces in Fatehpur Sikri (like the temple of Govind Deva)."
+                    },
+                    {
+                        "question": "In Fatehpur Sikri, many of the buildings show the influence of the architectural styles of:",
+                        "options": [
+                            "Gujarat and Malwa",
+                            "Kashmir and Punjab",
+                            "Bengal and Assam",
+                            "Kerala and Tamil Nadu"
+                        ],
+                        "answer": 0,
+                        "explanation": "In Akbar's capital at Fatehpur Sikri many of the buildings show the influence of the architectural styles of Gujarat and Malwa."
+                    }
+                ],
+                "ch6": [
+                    {
+                        "question": "Thanjavur, the capital of the Cholas, was primarily what type of town?",
+                        "options": [
+                            "A temple town and administrative center",
+                            "Only a port town",
+                            "A garrison town",
+                            "A weavers' town"
+                        ],
+                        "answer": 0,
+                        "explanation": "Thanjavur, the capital of the Cholas, as it was a thousand years ago, was a temple town and an administrative centre."
+                    },
+                    {
+                        "question": "The Rajarajeshvara temple in Thanjavur was designed by the architect:",
+                        "options": [
+                            "Kunjamallan Rajaraja Perunthachchan",
+                            "Amir Khusrau",
+                            "Abul Fazl",
+                            "Ustad Ahmad Lahauri"
+                        ],
+                        "answer": 0,
+                        "explanation": "The townspeople are all praise for its architect Kunjaramallan Rajaraja Perunthachchan who has proudly carved his name on the temple wall."
+                    },
+                    {
+                        "question": "What was generated in the mandapas (pavilions) of the temple?",
+                        "options": [
+                            "The king held court here and issued orders to subordinates",
+                            "Cotton was weaved",
+                            "Iron was melted",
+                            "Ships were built"
+                        ],
+                        "answer": 0,
+                        "explanation": "Kings hold court in these mandapas, issuing orders to their subordinates."
+                    },
+                    {
+                        "question": "What did the Saliya weavers of Thanjavur produce?",
+                        "options": [
+                            "Cloth for flags to be used in the temple festival, fine cottons for the king and nobility",
+                            "Silk only",
+                            "Woolen carpets",
+                            "Leather goods"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Saliya weavers of Thanjavur and the adjoining town of Uraiyur are busy producing cloth for flags to be used in the temple festival, fine cottons for the king and nobility and coarse cotton for the masses."
+                    },
+                    {
+                        "question": "At Svamimalai, the sthapatis or sculptors were making:",
+                        "options": [
+                            "Exquisite bronze idols and tall, ornamental bell metal lamps",
+                            "Wooden chariots",
+                            "Stone pillars",
+                            "Gold jewelry"
+                        ],
+                        "answer": 0,
+                        "explanation": "Some distance away at Svamimalai, the sthapatis or sculptors are making exquisite bronze idols and tall, ornamental bell metal lamps."
+                    },
+                    {
+                        "question": "Bell metal contains a greater proportion of which metal than other kinds of bronze?",
+                        "options": [
+                            "Tin",
+                            "Copper",
+                            "Iron",
+                            "Zinc"
+                        ],
+                        "answer": 0,
+                        "explanation": "Bronze is an alloy containing copper and tin. Bell metal produces a bell-like sound because it contains a greater proportion of tin than other kinds of bronze."
+                    },
+                    {
+                        "question": "Chola bronze statues were made using the:",
+                        "options": [
+                            "'Lost wax' technique",
+                            "Carving method",
+                            "Stamping method",
+                            "Stone moulding technique"
+                        ],
+                        "answer": 0,
+                        "explanation": "Chola bronze statues were made using the 'lost wax' technique. First, an image was made of wax. This was covered with clay and allowed to dry. Next it was heated, and a tiny hole was made in the clay cover. The molten wax was drained out through this hole."
+                    },
+                    {
+                        "question": "Which town in Madhya Pradesh was celebrated for its temple to Bhillasvamin?",
+                        "options": [
+                            "Bhilsa or Vidisha",
+                            "Sanchi",
+                            "Mandu",
+                            "Gwalior"
+                        ],
+                        "answer": 0,
+                        "explanation": "Temple towns represent a very important pattern of urbanisation... Important temple towns included Bhillasvamin (Bhilsa or Vidisha in Madhya Pradesh)."
+                    },
+                    {
+                        "question": "Ajmer (Rajasthan) was the capital of the Chauhan kings and later became the suba headquarters under the Mughals. It is associated with which celebrated Sufi saint?",
+                        "options": [
+                            "Khwaja Muinuddin Chishti",
+                            "Nizamuddin Auliya",
+                            "Baba Farid",
+                            "Salim Chishti"
+                        ],
+                        "answer": 0,
+                        "explanation": "Ajmer is associated with the celebrated Sufi saint, Khwaja Muinuddin Chishti (twelfth century) who attracted devotees from all creeds."
+                    },
+                    {
+                        "question": "Near Ajmer is a lake which has attracted pilgrims from ancient times. What is it called?",
+                        "options": [
+                            "Pushkar",
+                            "Sambhar",
+                            "Chilika",
+                            "Dal"
+                        ],
+                        "answer": 0,
+                        "explanation": "Pushkar lake near Ajmer has attracted pilgrims from ancient times."
+                    },
+                    {
+                        "question": "What was the 'mandapika' in a small town?",
+                        "options": [
+                            "A mandi or market where nearby villagers brought their produce to sell",
+                            "A temple chariot",
+                            "A fort gate",
+                            "An administrative office"
+                        ],
+                        "answer": 0,
+                        "explanation": "They usually had a mandapika (or mandi of later times) to which nearby villagers brought their produce to sell."
+                    },
+                    {
+                        "question": "Market streets lined with shops were called:",
+                        "options": [
+                            "Hatta (haat of later times)",
+                            "Bazaar",
+                            "Chor bazaar",
+                            "Ganj"
+                        ],
+                        "answer": 0,
+                        "explanation": "They also had market streets called hatta (haat of later times) lined with shops."
+                    },
+                    {
+                        "question": "Often, a samanta or a zamindar built a fortified palace in or near these towns. What was one of their powers regarding trade?",
+                        "options": [
+                            "They levied taxes on traders, artisans and articles of trade",
+                            "They banned all trade",
+                            "They fixed standard weights for the whole empire",
+                            "They built all the ships"
+                        ],
+                        "answer": 0,
+                        "explanation": "Usually a samanta or, in later times, a zamindar built a fortified palace in or near these towns. They levied taxes on traders, artisans and articles of trade..."
+                    },
+                    {
+                        "question": "Which nomad traders brought their families and travelled in caravans called 'Tanda'?",
+                        "options": [
+                            "Banjara",
+                            "Marwari",
+                            "Chettiar",
+                            "Khatri"
+                        ],
+                        "answer": 0,
+                        "explanation": "There were many kinds of traders. These included the Banjaras... who moved in caravans called tanda."
+                    },
+                    {
+                        "question": "Which guilds were the most famous among the trading guilds of south India from the eighth century onwards?",
+                        "options": [
+                            "Manigramam and Nanadesi",
+                            "Khatris and Oswals",
+                            "Chettiars and Baniyas",
+                            "Panchalas and Vishwakarma"
+                        ],
+                        "answer": 0,
+                        "explanation": "There were several such guilds in south India from the eighth century onwards - the most famous being the Manigramam and Nanadesi. These guilds traded extensively both within the peninsula and with Southeast Asia and China."
+                    },
+                    {
+                        "question": "Which community traded primarily with the ports of the Red Sea, Persian Gulf, East Africa, Southeast Asia and China?",
+                        "options": [
+                            "Arab, Persian, Chinese, Jewish and Syrian Christian traders",
+                            "Only the Portuguese",
+                            "Only English companies",
+                            "Only Marwari Oswal"
+                        ],
+                        "answer": 0,
+                        "explanation": "The towns on the west coast were home to Arab, Persian, Chinese, Jewish and Syrian Christian traders."
+                    },
+                    {
+                        "question": "Indian spices and cloth sold in the Red Sea ports were purchased by:",
+                        "options": [
+                            "Italian traders",
+                            "Russian traders",
+                            "Greek traders",
+                            "Spanish traders"
+                        ],
+                        "answer": 0,
+                        "explanation": "Indian spices and cloth sold in the Red Sea ports were purchased by Italian traders and eventually reached European markets, fetching very high profits."
+                    },
+                    {
+                        "question": "The spice trade (especially pepper, cinnamon, nutmeg, dried ginger) became an important part of:",
+                        "options": [
+                            "European cooking",
+                            "Asian cooking",
+                            "African cooking",
+                            "Australian cooking"
+                        ],
+                        "answer": 0,
+                        "explanation": "Spices grown in tropical climates (pepper, cinnamon, nutmeg, dried ginger, etc.) became an important part of European cooking."
+                    },
+                    {
+                        "question": "Which craftspersons were famous for their inlay work in copper and silver, which came to be called Bidri?",
+                        "options": [
+                            "The craftspersons of Bidar",
+                            "The weavers of Surat",
+                            "The sculptors of Thanjavur",
+                            "The shipbuilders of Masulipatnam"
+                        ],
+                        "answer": 0,
+                        "explanation": "The craftspersons of Bidar were so famed for their inlay work in copper and silver that it came to be called Bidri."
+                    },
+                    {
+                        "question": "The Panchalas or Vishwakarma community consisted of:",
+                        "options": [
+                            "Goldsmiths, bronzesmiths, blacksmiths, masons and carpenters",
+                            "Only weavers",
+                            "Only farmers",
+                            "Only priests"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Panchalas or Vishwakarma community, consisting of goldsmiths, bronzesmiths, blacksmiths, masons and carpenters, were essential to the building of temples."
+                    },
+                    {
+                        "question": "Which city was the capital of the Vijayanagara Empire?",
+                        "options": [
+                            "Hampi",
+                            "Surat",
+                            "Masulipatnam",
+                            "Bidar"
+                        ],
+                        "answer": 0,
+                        "explanation": "Hampi is located in the Krishna-Tungabhadra basin, which formed the nucleus of the Vijayanagara Empire, founded in 1336."
+                    },
+                    {
+                        "question": "Hampi's architecture was distinctive. What did its buildings have?",
+                        "options": [
+                            "Splendid arches, domes and pillared halls with niches for holding sculptures",
+                            "Flat roofs covered in grass",
+                            "Only wooden structures without any stone",
+                            "Structures completely made of mud"
+                        ],
+                        "answer": 0,
+                        "explanation": "The architecture of Hampi was distinctive. The buildings in the royal complex had splendid arches, domes and pillared halls with niches for holding sculptures."
+                    },
+                    {
+                        "question": "In the fifteenth and sixteenth centuries, Hampi bustled with commercial and cultural activities. Which trading communities controlled its markets?",
+                        "options": [
+                            "Moors (Muslim merchants), Chettis and agents of European traders like the Portuguese",
+                            "Only local street vendors",
+                            "Chinese traders",
+                            "Russian spies"
+                        ],
+                        "answer": 0,
+                        "explanation": "Hampi bustled with commercial and cultural activities. Moors (a name used collectively for Muslim merchants), Chettis and agents of European traders such as the Portuguese, thronged the markets of Hampi."
+                    },
+                    {
+                        "question": "Which city in Gujarat was the emporium of western trade during the Mughal period?",
+                        "options": [
+                            "Surat",
+                            "Ahmedabad",
+                            "Broach",
+                            "Khambhat"
+                        ],
+                        "answer": 0,
+                        "explanation": "Surat in Gujarat was the emporium of western trade during the Mughal period. Surat was the gateway for trade with West Asia via the Gulf of Ormuz."
+                    },
+                    {
+                        "question": "Surat has also been called the gate to:",
+                        "options": [
+                            "Mecca, because many pilgrim ships set sail from here",
+                            "Delhi",
+                            "Asia",
+                            "Europe"
+                        ],
+                        "answer": 0,
+                        "explanation": "Surat has also been called the gate to Mecca because many pilgrim ships set sail from here."
+                    }
+                ],
+                "ch7": [
+                    {
+                        "question": "Many societies in the subcontinent did not follow the social rules and rituals prescribed by the Brahmanas. Such societies are often called:",
+                        "options": [
+                            "Tribes",
+                            "Empires",
+                            "Guilds",
+                            "Mandalas"
+                        ],
+                        "answer": 0,
+                        "explanation": "Many societies in the subcontinent did not follow the social rules and rituals prescribed by the Brahmanas... Such societies are often called tribes."
+                    },
+                    {
+                        "question": "Tribal people were found in almost every region of the subcontinent. The area and influence of a tribe:",
+                        "options": [
+                            "Remained the same",
+                            "Varied at different points of time",
+                            "Was restricted to the south",
+                            "Was usually very small"
+                        ],
+                        "answer": 1,
+                        "explanation": "Tribal people were found in almost every region of the subcontinent. The area and influence of a tribe varied at different points of time."
+                    },
+                    {
+                        "question": "The Khokhar tribe was very influential during the thirteenth and fourteenth centuries in:",
+                        "options": [
+                            "Punjab",
+                            "Bengal",
+                            "Odisha",
+                            "Maharashtra"
+                        ],
+                        "answer": 0,
+                        "explanation": "In Punjab, the Khokhar tribe was very influential during the thirteenth and fourteenth centuries."
+                    },
+                    {
+                        "question": "Who was Kamal Khan Gakkhar?",
+                        "options": [
+                            "A chief of the Gakkhar tribe, made a noble (mansabdar) by Emperor Akbar",
+                            "A Mughal general",
+                            "A weaver from Surat",
+                            "A Rajput king"
+                        ],
+                        "answer": 0,
+                        "explanation": "Later, the Gakkhars became more important. Their chief, Kamal Khan Gakkhar, was made a noble (mansabdar) by Emperor Akbar."
+                    },
+                    {
+                        "question": "Which tribe was dominant in the north-west before the Mughals?",
+                        "options": [
+                            "Balochis",
+                            "Gonds",
+                            "Ahoms",
+                            "Cheras"
+                        ],
+                        "answer": 0,
+                        "explanation": "In Multan and Sind, the Langahs and Arghuns dominated... The Balochis were another large and powerful tribe in the north-west."
+                    },
+                    {
+                        "question": "The Balochis were divided into many smaller:",
+                        "options": [
+                            "Clans under different chiefs",
+                            "Empires",
+                            "Guilds",
+                            "Temples"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Balochis were divided into many smaller clans under different chiefs."
+                    },
+                    {
+                        "question": "In the western Himalaya lived the shepherd tribe of:",
+                        "options": [
+                            "Gaddis",
+                            "Ahoms",
+                            "Bhils",
+                            "Gonds"
+                        ],
+                        "answer": 0,
+                        "explanation": "In the western Himalaya lived the shepherd tribe of Gaddis."
+                    },
+                    {
+                        "question": "Chera chiefdoms had emerged in the present-day Bihar and Jharkhand by the:",
+                        "options": [
+                            "Twelfth century",
+                            "Fifth century",
+                            "Second century BCE",
+                            "Eighteenth century"
+                        ],
+                        "answer": 0,
+                        "explanation": "In many areas of present-day Bihar and Jharkhand, Chera chiefdoms had emerged by the twelfth century."
+                    },
+                    {
+                        "question": "Who defeated the Cheras in 1591?",
+                        "options": [
+                            "Raja Man Singh, Akbar's famous general",
+                            "Babur",
+                            "Iltutmish",
+                            "Ashoka"
+                        ],
+                        "answer": 0,
+                        "explanation": "Raja Man Singh, Akbar's famous general, attacked and defeated the Cheras in 1591."
+                    },
+                    {
+                        "question": "Which tribe was spread across western and central India?",
+                        "options": [
+                            "Bhils",
+                            "Gakkhars",
+                            "Nagas",
+                            "Ahoms"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Maharashtra highlands and Karnataka were home to Kolis, Berads and numerous others... Further south there were large tribal populations of Koragas, Vetars, Maravars and many others. The large tribe of Bhils was spread across western and central India."
+                    },
+                    {
+                        "question": "The Banjaras were the most important:",
+                        "options": [
+                            "Trader-nomads",
+                            "Soldiers",
+                            "Weavers",
+                            "Farmers"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Banjaras were the most important trader-nomads. Their caravan was called tanda."
+                    },
+                    {
+                        "question": "Which Sultan used the Banjaras to transport grain to the city markets?",
+                        "options": [
+                            "Alauddin Khalji",
+                            "Balban",
+                            "Iltutmish",
+                            "Qutbuddin Aybak"
+                        ],
+                        "answer": 0,
+                        "explanation": "Sultan Alauddin Khalji used the Banjaras to transport grain to the city markets."
+                    },
+                    {
+                        "question": "Nomadic pastoralists moved over long distances with their animals. They lived on:",
+                        "options": [
+                            "Milk and other pastoral products",
+                            "Only agriculture",
+                            "Hunting only",
+                            "Begging"
+                        ],
+                        "answer": 0,
+                        "explanation": "Nomadic pastoralists moved over long distances with their animals. They lived on milk and other pastoral products."
+                    },
+                    {
+                        "question": "What did nomadic pastoralists commonly exchange with settled agriculturists?",
+                        "options": [
+                            "They exchanged wool, ghee, etc., for grain, cloth, utensils and other products",
+                            "They gave gold for silver",
+                            "They gave weapons for shelter",
+                            "They traded silk for tea"
+                        ],
+                        "answer": 0,
+                        "explanation": "They also exchanged wool, ghee, etc., with settled agriculturists for grain, cloth, utensils and other products."
+                    },
+                    {
+                        "question": "Many pastoral tribes reared and sold:",
+                        "options": [
+                            "Animals, such as cattle and horses, to the prosperous people",
+                            "Elephants",
+                            "Fish",
+                            "Dogs"
+                        ],
+                        "answer": 0,
+                        "explanation": "Many pastoral tribes reared and sold animals, such as cattle and horses, to the prosperous people."
+                    },
+                    {
+                        "question": "Different castes of petty pedlars travelled from village to village making and selling wares such as:",
+                        "options": [
+                            "Ropes, reeds, straw matting and coarse sacks",
+                            "Gold coins",
+                            "Iron swords",
+                            "Silk sarees"
+                        ],
+                        "answer": 0,
+                        "explanation": "Different castes of petty pedlars travelled from village to village. They made and sold wares such as ropes, reeds, straw matting and coarse sacks."
+                    },
+                    {
+                        "question": "As the economy and the needs of society grew, new castes emerged within the varnas. These smaller castes were called:",
+                        "options": [
+                            "Jatis",
+                            "Kulas",
+                            "Samantas",
+                            "Subas"
+                        ],
+                        "answer": 0,
+                        "explanation": "Smaller castes, or jatis, emerged within the varnas... For example, new castes appeared amongst the Brahmanas..."
+                    },
+                    {
+                        "question": "Among the Kshatriyas, new lineages became powerful by the eleventh and twelfth centuries. They belonged to different lineages such as Hunas, Chandelas, Chalukyas and others, and were collectively called:",
+                        "options": [
+                            "Rajputs",
+                            "Gonds",
+                            "Ahoms",
+                            "Banjaras"
+                        ],
+                        "answer": 0,
+                        "explanation": "Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries... Many of these clans came to be regarded as Rajputs."
+                    },
+                    {
+                        "question": "The rise of Rajput clans to the position of rulers set an example for the:",
+                        "options": [
+                            "Tribal people to follow",
+                            "Brahmanas",
+                            "European traders",
+                            "Persian historians"
+                        ],
+                        "answer": 0,
+                        "explanation": "The rise of Rajput clans to the position of rulers set an example for the tribal people to follow."
+                    },
+                    {
+                        "question": "Where did the Gonds live?",
+                        "options": [
+                            "In a vast forested region called Gondwana",
+                            "In the Thar Desert",
+                            "In the Himalayas",
+                            "Along the Malabar and Coromandel coasts"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Gonds lived in a vast forested region called Gondwana – or “country inhabited by Gonds”."
+                    },
+                    {
+                        "question": "What kind of agriculture did the Gonds practice?",
+                        "options": [
+                            "Shifting cultivation",
+                            "Terrace farming",
+                            "Hydroponics",
+                            "Plantation farming"
+                        ],
+                        "answer": 0,
+                        "explanation": "They practiced shifting cultivation."
+                    },
+                    {
+                        "question": "When the Delhi Sultanate was declining, a few large Gond kingdoms began to:",
+                        "options": [
+                            "Dominate the smaller Gond chiefs",
+                            "Merge with the Mughals",
+                            "Move to the north-east",
+                            "Adopt Buddhism"
+                        ],
+                        "answer": 0,
+                        "explanation": "At a time when the power of the Delhi Sultans was declining, a few large Gond kingdoms began to dominate the smaller Gond chiefs."
+                    },
+                    {
+                        "question": "The Gond kingdom of Garha Katanga is mentioned in which book?",
+                        "options": [
+                            "Akbar Nama",
+                            "Babur Nama",
+                            "Ain-i-Akbari",
+                            "Kitab-ul-Hind"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Akbar Nama, a history of Akbar's reign, mentions the Gond kingdom of Garha Katanga that had 70,000 villages."
+                    },
+                    {
+                        "question": "In the Gond administration, the kingdom was divided into 'garhs', which were further divided into units of 84 villages called:",
+                        "options": [
+                            "Chaurasi",
+                            "Pargana",
+                            "Barhot",
+                            "Mandal"
+                        ],
+                        "answer": 0,
+                        "explanation": "Each garh was controlled by a particular Gond clan. This was further divided into units of 84 villages called chaurasi."
+                    },
+                    {
+                        "question": "The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the:",
+                        "options": [
+                            "Thirteenth century",
+                            "Eleventh century",
+                            "Fifteenth century",
+                            "Seventeenth century"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century."
+                    }
+                ],
+                "ch8": [
+                    {
+                        "question": "Before large kingdoms emerged, what did different groups of people worship?",
+                        "options": [
+                            "Their own gods and goddesses",
+                            "Only one universal God",
+                            "No gods at all",
+                            "Only the sun and the moon"
+                        ],
+                        "answer": 0,
+                        "explanation": "Before large kingdoms emerged, different groups of people worshipped their own gods and goddesses."
+                    },
+                    {
+                        "question": "As towns, trade, and empires grew, what new idea about life and rebirth became widely accepted?",
+                        "options": [
+                            "The idea that all living things pass through countless cycles of birth and rebirth performing good deeds and bad",
+                            "The idea that there is only one life",
+                            "The idea that rebirth only happens for kings",
+                            "The idea that animals do not have souls"
+                        ],
+                        "answer": 0,
+                        "explanation": "The idea that all living things pass through countless cycles of birth and rebirth performing good deeds and bad came to be widely accepted."
+                    },
+                    {
+                        "question": "What other idea about social privileges became a subject of debate?",
+                        "options": [
+                            "The belief that social privileges came from birth in a 'noble' family or a 'high' caste",
+                            "The idea that everyone is born equal",
+                            "The idea that women are superior to men",
+                            "The belief that wealth ensures salvation"
+                        ],
+                        "answer": 0,
+                        "explanation": "Similarly, the idea that all human beings are not equal even at birth gained ground during this period. The belief that social privileges came from birth in a 'noble' family or a 'high' caste was the subject of many learned texts."
+                    },
+                    {
+                        "question": "How could the cycle of rebirth be broken according to the teachings of the Buddha and the Jainas?",
+                        "options": [
+                            "Through personal effort",
+                            "By paying the priests",
+                            "By sacrificing animals",
+                            "By building large temples"
+                        ],
+                        "answer": 0,
+                        "explanation": "Many people were uneasy with such ideas and turned to the teachings of the Buddha or the Jainas according to which it was possible to overcome social differences and break the cycle of rebirth through personal effort."
+                    },
+                    {
+                        "question": "Others felt attracted to the idea of a Supreme God who could deliver humans from such bondage if approached with devotion. This idea was advocated in the:",
+                        "options": [
+                            "Bhagavadgita",
+                            "Rigveda",
+                            "Koran",
+                            "Zend Avesta"
+                        ],
+                        "answer": 0,
+                        "explanation": "Others felt attracted to the idea of a Supreme God who could deliver humans from such bondage if approached with devotion (or bhakti). This idea, advocated in the Bhagavadgita, grew in popularity..."
+                    },
+                    {
+                        "question": "Which supreme deities came to be worshipped through elaborate rituals?",
+                        "options": [
+                            "Shiva, Vishnu and Durga",
+                            "Only Brahma",
+                            "Indra and Agni",
+                            "Varuna and Vayu"
+                        ],
+                        "answer": 0,
+                        "explanation": "Shiva, Vishnu and Durga as supreme deities came to be worshipped through elaborate rituals."
+                    },
+                    {
+                        "question": "The seventh to ninth centuries saw the emergence of new religious movements in South India led by:",
+                        "options": [
+                            "Nayanars (saints devoted to Shiva) and Alvars (saints devoted to Vishnu)",
+                            "Buddhists and Jainas",
+                            "Sufis and Bhaktas",
+                            "Gonds and Ahoms"
+                        ],
+                        "answer": 0,
+                        "explanation": "The seventh to ninth centuries saw the emergence of new religious movements, led by the Nayanars (saints devoted to Shiva) and Alvars (saints devoted to Vishnu)."
+                    },
+                    {
+                        "question": "The Nayanars and Alvars came from all castes, including those considered 'untouchable' like the:",
+                        "options": [
+                            "Pulaiyar and the Panars",
+                            "Brahmanas",
+                            "Rajputs",
+                            "Kayasthas"
+                        ],
+                        "answer": 0,
+                        "explanation": "They came from all castes including those considered 'untouchable' like the Pulaiyar and the Panars."
+                    },
+                    {
+                        "question": "The Nayanars and Alvars drew upon the ideals of love and heroism found in:",
+                        "options": [
+                            "Sangam literature",
+                            "The Vedas",
+                            "Upanishads",
+                            "Puranas"
+                        ],
+                        "answer": 0,
+                        "explanation": "They were sharply critical of the Buddhists and Jainas and preached ardent love of Shiva or Vishnu as the path to salvation. They drew upon the ideals of love and heroism as found in the Sangam literature..."
+                    },
+                    {
+                        "question": "There were how many Nayanars in total?",
+                        "options": [
+                            "63",
+                            "12",
+                            "108",
+                            "50"
+                        ],
+                        "answer": 0,
+                        "explanation": "There were 63 Nayanars, who belonged to different caste backgrounds such as potters, 'untouchable' workers, peasants, hunters, soldiers, Brahmanas and chiefs."
+                    },
+                    {
+                        "question": "How many Alvars were there?",
+                        "options": [
+                            "12",
+                            "63",
+                            "24",
+                            "10"
+                        ],
+                        "answer": 0,
+                        "explanation": "There were 12 Alvars, who came from equally divergent backgrounds, the best known being Periyalvar, his daughter Andal, Tondaradippodi Alvar and Nammalvar."
+                    },
+                    {
+                        "question": "Their songs are compiled in the Divya Prabandham. Whose songs does this refer to?",
+                        "options": [
+                            "The Alvars",
+                            "The Nayanars",
+                            "The Sufis",
+                            "The Buddhists"
+                        ],
+                        "answer": 0,
+                        "explanation": "Their (Alvars') songs were compiled in the Divya Prabandham."
+                    },
+                    {
+                        "question": "Between the tenth and twelfth centuries, Chola and Pandya kings built elaborate temples around many of the shrines visited by the saint-poets, strengthening the links between:",
+                        "options": [
+                            "The bhakti tradition and temple worship",
+                            "Islam and Hinduism",
+                            "Kings and merchants",
+                            "Tribals and settled communities"
+                        ],
+                        "answer": 0,
+                        "explanation": "Between the tenth and twelfth centuries Chola and Pandya kings built elaborate temples around many of the shrines visited by the saint-poets, strengthening the links between the bhakti tradition and temple worship."
+                    },
+                    {
+                        "question": "Who was Ramanuja?",
+                        "options": [
+                            "A twelfth-century Bhakti saint born in Tamil Nadu, deeply influenced by the Alvars",
+                            "A Sufi master",
+                            "A Chera king",
+                            "A Buddhist monk"
+                        ],
+                        "answer": 0,
+                        "explanation": "Ramanuja, born in Tamil Nadu in the eleventh century, was deeply influenced by the Alvars. According to him the best means of attaining salvation was through intense devotion to Vishnu."
+                    },
+                    {
+                        "question": "What is the doctrine of Vishishtadvaita (qualified oneness), propounded by Ramanuja?",
+                        "options": [
+                            "The soul even when united with the Supreme God remained distinct",
+                            "There is only one God without any attributes",
+                            "The soul disappears upon salvation",
+                            "The universe is an illusion"
+                        ],
+                        "answer": 0,
+                        "explanation": "He propounded the doctrine of Vishishtadvaita or qualified oneness in that the soul even when united with the Supreme God remained distinct."
+                    },
+                    {
+                        "question": "Who initiated the Virashaiva movement in Karnataka in the mid-twelfth century?",
+                        "options": [
+                            "Basavanna and his companions like Allama Prabhu and Akkamahadevi",
+                            "Shankara",
+                            "Ramanuja",
+                            "Namdev and Tukaram"
+                        ],
+                        "answer": 0,
+                        "explanation": "The connection between the Tamil bhakti movement and temple worship... led to a reaction that is best represented in the Virashaiva movement initiated by Basavanna and his companions like Allama Prabhu and Akkamahadevi."
+                    },
+                    {
+                        "question": "What did the Virashaivas strongly argue for?",
+                        "options": [
+                            "The equality of all human beings and against Brahmanical ideas about caste and the treatment of women",
+                            "The strict observance of the caste system",
+                            "The construction of more temples",
+                            "Performing complex sacrifices"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Virashaivas argued strongly for the equality of all human beings and against Brahmanical ideas about caste and the treatment of women. They were also against all forms of ritual and idol worship."
+                    },
+                    {
+                        "question": "Who were the notable saint-poets of Maharashtra from the thirteenth to the seventeenth centuries?",
+                        "options": [
+                            "Jnaneshwar, Namdev, Eknath and Tukaram as well as women like Sakhubai",
+                            "Kabir and Raidas",
+                            "Sankaradeva and Chaitanyadeva",
+                            "Surdas and Tulsidas"
+                        ],
+                        "answer": 0,
+                        "explanation": "From the thirteenth to the seventeenth centuries Maharashtra saw a great number of saint-poets... The most important among them were Jnaneshwar, Namdev, Eknath and Tukaram as well as women like Sakhubai, and the family of Chokhamela, who belonged to the 'untouchable' Mahar caste."
+                    },
+                    {
+                        "question": "The saint-poets of Maharashtra rejected:",
+                        "options": [
+                            "All forms of ritualism, outward display of piety and social differences based on birth",
+                            "The reading of the Bhagavad Gita",
+                            "Singing devotional songs",
+                            "Living with their families"
+                        ],
+                        "answer": 0,
+                        "explanation": "These saint-poets rejected all forms of ritualism, outward display of piety and social differences based on birth. In fact they even rejected the idea of renunciation and preferred to live with their families..."
+                    },
+                    {
+                        "question": "What was the view of the Nathpanthis, Siddhacharas and Yogis regarding salvation?",
+                        "options": [
+                            "It lay in meditation on the formless Ultimate Reality",
+                            "It lay in bathing in the Ganges",
+                            "It lay in giving wealth to priests",
+                            "It lay in fighting for the king"
+                        ],
+                        "answer": 0,
+                        "explanation": "To them the path to salvation lay in meditation on the formless Ultimate Reality and the realisation of oneness with it. To achieve this they advocated intense training of the mind and body through practices like yogasanas, breathing exercises and meditation."
+                    },
+                    {
+                        "question": "Sufis were Muslim mystics who rejected:",
+                        "options": [
+                            "Outward religiosity and emphasised love and devotion to God and compassion towards all fellow human beings",
+                            "The teachings of the Quran",
+                            "Fasting and prayer",
+                            "The existence of God"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Sufis were Muslim mystics. They rejected outward religiosity and emphasised love and devotion to God and compassion towards all fellow human beings."
+                    },
+                    {
+                        "question": "Islam propagated strict monotheism, meaning:",
+                        "options": [
+                            "Submission to one God",
+                            "Worship of multiple deities",
+                            "Rejection of all gods",
+                            "God taking human forms"
+                        ],
+                        "answer": 0,
+                        "explanation": "Islam propagated strict monotheism or submission to one God."
+                    },
+                    {
+                        "question": "What is a 'silsila' in the context of Sufism?",
+                        "options": [
+                            "A spiritual genealogy or lineage of Sufi teachers",
+                            "A type of mosque",
+                            "A religious text",
+                            "A form of musical instrument"
+                        ],
+                        "answer": 0,
+                        "explanation": "Among them were the Chishti silsila, which was among the most influential orders. It had a long line of teachers... silsila means a spiritual genealogy of Sufi teachers."
+                    },
+                    {
+                        "question": "Which Sufi order was among the most influential and had a long line of teachers like Khwaja Muinuddin of Ajmer and Qutbuddin Bakhtiyar Kaki of Delhi?",
+                        "options": [
+                            "Chishti silsila",
+                            "Suhrawardi silsila",
+                            "Qadiri silsila",
+                            "Naqshbandi silsila"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Chishti silsila was among the most influential orders. It had a long line of teachers like Khwaja Muinuddin Chishti of Ajmer, Qutbuddin Bakhtiyar Kaki of Delhi, Baba Farid of Punjab, Khwaja Nizamuddin Auliya of Delhi..."
+                    },
+                    {
+                        "question": "What is a 'khanqah' or hospice?",
+                        "options": [
+                            "A resting place for travellers and a place where Sufi masters held their assemblies",
+                            "A specialized market",
+                            "A royal palace",
+                            "A military barracks"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Sufi masters held their assemblies in their khanqahs or hospices. Devotees of all descriptions including members of the royalty and nobility, and ordinary people flocked to these khanqahs."
+                    }
+                ],
+                "ch9": [
+                    {
+                        "question": "The Chera kingdom of Mahodayapuram was established in the ninth century in the south-western part of the peninsula, part of present-day:",
+                        "options": [
+                            "Kerala",
+                            "Tamil Nadu",
+                            "Karnataka",
+                            "Andhra Pradesh"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Chera kingdom of Mahodayapuram was established in the ninth century in the south-western part of the peninsula, part of present-day Kerala."
+                    },
+                    {
+                        "question": "Which language was likely spoken in the Chera kingdom of Mahodayapuram?",
+                        "options": [
+                            "Malayalam",
+                            "Tamil",
+                            "Kannada",
+                            "Telugu"
+                        ],
+                        "answer": 0,
+                        "explanation": "It is likely that Malayalam was spoken in this area. The rulers introduced the Malayalam language and script in their inscriptions."
+                    },
+                    {
+                        "question": "The rulers of the Chera kingdom drew upon Sanskritic traditions. What 14th-century text deals with grammar and poetics in a style called Manipravalam?",
+                        "options": [
+                            "Lilatilakam",
+                            "Silappadikaram",
+                            "Manimekalai",
+                            "Tolkappiyam"
+                        ],
+                        "answer": 0,
+                        "explanation": "A fourteenth-century text, the Lilatilakam, dealing with grammar and poetics, was composed in Manipravalam - literally, 'diamonds and corals' referring to the two languages, Sanskrit and the regional language."
+                    },
+                    {
+                        "question": "What is the cult of Jagannatha at Puri (Odisha) closely associated with?",
+                        "options": [
+                            "Vishnu",
+                            "Shiva",
+                            "Brahma",
+                            "Indra"
+                        ],
+                        "answer": 0,
+                        "explanation": "In other regions, regional cultures grew around religious traditions. The best example of this process is the cult of Jagannatha (literally, lord of the world, a name for Vishnu) at Puri, Odisha."
+                    },
+                    {
+                        "question": "Who decided to erect a temple for Purushottama Jagannatha at Puri in the 12th century?",
+                        "options": [
+                            "Anantavarman, a ruler of the Ganga dynasty",
+                            "Rajaraja Chola",
+                            "Harsha",
+                            "Chandragupta Maurya"
+                        ],
+                        "answer": 0,
+                        "explanation": "In the twelfth century, one of the most important rulers of the Ganga dynasty, Anantavarman, decided to erect a temple for Purushottama Jagannatha at Puri."
+                    },
+                    {
+                        "question": "What happened to the Jagannatha temple at Puri as it gained importance as a centre of pilgrimage?",
+                        "options": [
+                            "Its authority in social and political matters also increased",
+                            "It was destroyed by local people",
+                            "It lost all its wealth",
+                            "Pilgrims stopped visiting it"
+                        ],
+                        "answer": 0,
+                        "explanation": "As the temple gained in importance as a centre of pilgrimage, its authority in social and political matters also increased. All those who conquered Odisha... attempted to gain control over the temple."
+                    },
+                    {
+                        "question": "In the 19th century, the region that constitutes most of present-day Rajasthan was called:",
+                        "options": [
+                            "Rajputana",
+                            "Marwar",
+                            "Mewar",
+                            "Gujarat"
+                        ],
+                        "answer": 0,
+                        "explanation": "In the nineteenth century, the region that constitutes most of present-day Rajasthan was called Rajputana by the British."
+                    },
+                    {
+                        "question": "Rajput rulers liked to be perceived as:",
+                        "options": [
+                            "Valiant heroes who fought for their honour and chose death on the battlefield rather than face defeat",
+                            "Peacemakers who avoided all conflict",
+                            "Wealthy merchants",
+                            "Religious ascetics"
+                        ],
+                        "answer": 0,
+                        "explanation": "This group (Rajputs) is associated with the idea of a hero... rulers cherished the ideal of the hero who fought valiantly, often choosing death on the battlefield rather than face defeat."
+                    },
+                    {
+                        "question": "How did stories about Rajput heroes spread?",
+                        "options": [
+                            "They were recorded in poems and songs, which were recited by specially trained minstrels",
+                            "They were carved on stone pillars",
+                            "They were painted on cave walls",
+                            "They were written in daily newspapers"
+                        ],
+                        "answer": 0,
+                        "explanation": "Stories about Rajput heroes were recorded in poems and songs, which were recited by specially trained minstrels."
+                    },
+                    {
+                        "question": "Who was Kathak originally associated with?",
+                        "options": [
+                            "A caste of story-tellers in temples of north India",
+                            "Royal warriors of Rajasthan",
+                            "Priests in Kerala",
+                            "Weavers in Bengal"
+                        ],
+                        "answer": 0,
+                        "explanation": "The term kathak is derived from katha, a word used in Sanskrit and other languages for story. The kathaks were originally a caste of story-tellers in temples of north India, who beautified their performances with gestures and songs."
+                    },
+                    {
+                        "question": "Which Mughal emperors patronized Kathak, allowing it to develop distinct features?",
+                        "options": [
+                            "Akbar, Jahangir and Shah Jahan",
+                            "Aurangzeb alone",
+                            "Babur and Humayun",
+                            "Only Bahadur Shah Zafar"
+                        ],
+                        "answer": 0,
+                        "explanation": "Under the Mughal emperors and their nobles, Kathak was performed in the court, where it acquired its present features and developed into a form of dance with a distinctive style."
+                    },
+                    {
+                        "question": "Under whose patronage did Kathak grow into a major art form in the 19th century in Awadh?",
+                        "options": [
+                            "Wajid Ali Shah",
+                            "Siraj ud-Daulah",
+                            "Murshid Quli Khan",
+                            "Asaf-ud-Daula"
+                        ],
+                        "answer": 0,
+                        "explanation": "Under the patronage of Wajid Ali Shah, the last Nawab of Awadh, it grew into a major art form."
+                    },
+                    {
+                        "question": "Which of the following is an accepted 'classical' dance style of India?",
+                        "options": [
+                            "Bharatanatyam (Tamil Nadu)",
+                            "Kathakali (Kerala)",
+                            "Odissi (Odisha)",
+                            "All of the above"
+                        ],
+                        "answer": 3,
+                        "explanation": "Other dance forms that are recognised as classical at present are: Bharatanatyam (Tamil Nadu), Kathakali (Kerala), Odissi (Odisha), Kuchipudi (Andhra Pradesh), Manipuri (Manipur) and Kathak (North India)."
+                    },
+                    {
+                        "question": "Miniatures are generally:",
+                        "options": [
+                            "Small-sized paintings, generally done in water colour on cloth or paper",
+                            "Large wall murals",
+                            "Statues made of bronze",
+                            "Carvings on wooden doors"
+                        ],
+                        "answer": 0,
+                        "explanation": "Miniatures (as their very name suggests) are small-sized paintings, generally done in water colour on cloth or paper."
+                    },
+                    {
+                        "question": "Which Himalayan foothills region developed a bold and intense style of miniature painting called Basohli?",
+                        "options": [
+                            "The region around modern-day Himachal Pradesh",
+                            "Kashmir",
+                            "Nepal",
+                            "Sikkim"
+                        ],
+                        "answer": 0,
+                        "explanation": "By the late seventeenth century this region (around the modern-day state of Himachal Pradesh) had developed a bold and intense style of miniature painting called Basohli."
+                    },
+                    {
+                        "question": "The Kangra style of miniature painting was inspired by:",
+                        "options": [
+                            "The Vaishnavite traditions",
+                            "Shaivite traditions",
+                            "Islamic traditions",
+                            "Buddhist traditions"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Kangra artists by the mid-eighteenth century developed a style... The source of inspiration was the Vaishnavite traditions. Soft colours including cool blues and greens, and a lyrical treatment of themes distinguished Kangra painting."
+                    },
+                    {
+                        "question": "Bengali is derived from which ancient language?",
+                        "options": [
+                            "Sanskrit",
+                            "Prakrit",
+                            "Persian",
+                            "Arabic"
+                        ],
+                        "answer": 0,
+                        "explanation": "It is generally assumed that Bengali is derived from Sanskrit. However, from the fourth-third centuries BCE, commercial ties began to develop between Bengal and Magadha (South Bihar), which may have led to the growing influence of Sanskrit."
+                    },
+                    {
+                        "question": "The early Bengali literature is divided into two categories. One is independent of Sanskrit, and the other is:",
+                        "options": [
+                            "Indebted to Sanskrit",
+                            "Indebted to Arabic",
+                            "Indebted to Persian",
+                            "Independent of all languages"
+                        ],
+                        "answer": 0,
+                        "explanation": "Early Bengali literature may be divided into two categories - one indebted to Sanskrit and the other independent of it. The first includes translations of the Sanskrit epics... The second includes Nath literature..."
+                    },
+                    {
+                        "question": "Who were 'pirs' in Bengal?",
+                        "options": [
+                            "Community leaders who functioned as teachers and adjudicators, sometimes ascribed with supernatural powers",
+                            "Only kings",
+                            "Wealthy merchants",
+                            "Tax collectors"
+                        ],
+                        "answer": 0,
+                        "explanation": "The early settlers in eastern Bengal sought some order... this was provided by community leaders, who also functioned as teachers and adjudicators and were sometimes ascribed with supernatural powers. People referred to them with affection and respect as pirs."
+                    },
+                    {
+                        "question": "The term 'pir' often included:",
+                        "options": [
+                            "Saints or Sufis",
+                            "Prominent religious personalities",
+                            "Deified soldiers and various Hindu and Buddhist deities",
+                            "All of the above"
+                        ],
+                        "answer": 3,
+                        "explanation": "The term pir included saints or Sufis and other religious personalities, daring colonisers and deified soldiers, various Hindu and Buddhist deities and even animistic spirits."
+                    },
+                    {
+                        "question": "In Bengal, what type of architecture became very popular and reflected local culture?",
+                        "options": [
+                            "Mosques and temples built with a 'docala' or 'chauchala' roof",
+                            "Gigantic stone pyramids",
+                            "Castles with moats",
+                            "Tall minarets only"
+                        ],
+                        "answer": 0,
+                        "explanation": "Many of the modest brick and terracotta temples in Bengal were built... Typical Bengali style had a double-roof (docala) or four-roof (chauchala)."
+                    },
+                    {
+                        "question": "The 'dochala' or 'chauchala' roofs in Bengal architecture were mainly constructed using:",
+                        "options": [
+                            "Mud and terracotta bricks",
+                            "Pure white marble",
+                            "Iron beams",
+                            "Glass panels"
+                        ],
+                        "answer": 0,
+                        "explanation": "Many of the modest brick and terracotta temples in Bengal were built with the support of several 'low' social groups. These temples often adopted the docala or chauchala roof style."
+                    },
+                    {
+                        "question": "Mangalakavyas were:",
+                        "options": [
+                            "Auspicious poems dealing with local deities",
+                            "Laws regarding trade",
+                            "Songs about war only",
+                            "Biographies of kings"
+                        ],
+                        "answer": 0,
+                        "explanation": "Mangalakavyas (literally auspicious poems, dealing with local deities) were part of early Bengali literature indebted to Sanskrit."
+                    },
+                    {
+                        "question": "Brahmanas in Bengal were permitted to eat what, distinguishing them from Brahmanas in some other regions?",
+                        "options": [
+                            "Fish",
+                            "Beef",
+                            "Chicken",
+                            "Pork"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Brihaddharma Purana, a thirteenth-century Sanskrit text from Bengal, permitted the local Brahmanas to eat certain varieties of fish, as fish was a traditional food in the riverine plains of Bengal."
+                    },
+                    {
+                        "question": "Fish and rice were the staple food in the riverine plains of Bengal. This is also reflected in the:",
+                        "options": [
+                            "Terracotta plaques on the walls of temples and viharas depicting scenes of fish being dressed",
+                            "Coins minted by the kings",
+                            "Weapons used by soldiers",
+                            "Clothing worn by nobles"
+                        ],
+                        "answer": 0,
+                        "explanation": "Terracotta plaques on the walls of temples and viharas (Buddhist monasteries) depict scenes of fish being dressed and taken to the market in baskets."
+                    }
+                ],
+                "ch10": [
+                    {
+                        "question": "By the mid-eighteenth century, the political boundary of the Mughal Empire was drastically reshaped by the emergence of:",
+                        "options": [
+                            "Independent kingdoms",
+                            "The British East India Company",
+                            "The Marathas",
+                            "All of the above"
+                        ],
+                        "answer": 3,
+                        "explanation": "If you look at the maps, you will see that the boundaries of the Mughal Empire were reshaped by the emergence of a number of independent kingdoms. By 1765, another power, the British, had successfully grabbed major chunks of territory in eastern India."
+                    },
+                    {
+                        "question": "Which Mughal Emperor fought a long war in the Deccan that depleted the military and financial resources of his empire?",
+                        "options": [
+                            "Aurangzeb",
+                            "Akbar",
+                            "Jahangir",
+                            "Shah Jahan"
+                        ],
+                        "answer": 0,
+                        "explanation": "Emperor Aurangzeb had depleted the military and financial resources of his empire by fighting a long war in the Deccan."
+                    },
+                    {
+                        "question": "Under the later Mughals, the efficiency of the imperial administration broke down. Who became increasingly difficult for the emperors to control?",
+                        "options": [
+                            "Their powerful mansabdars and nobles appointed as governors (subadars)",
+                            "Peasants",
+                            "The East India Company",
+                            "Artisans"
+                        ],
+                        "answer": 0,
+                        "explanation": "Under his successors, the efficiency of the imperial administration broke down. It became increasingly difficult for the later Mughal emperors to keep a check on their powerful mansabdars... Nobles appointed as governors (subadars) often controlled the offices of revenue and military administration (diwani and faujdari)."
+                    },
+                    {
+                        "question": "In 1739, who sacked and plundered the city of Delhi, taking away immense amounts of wealth?",
+                        "options": [
+                            "Nadir Shah, the ruler of Iran",
+                            "Ahmad Shah Abdali",
+                            "Shivaji",
+                            "Baji Rao I"
+                        ],
+                        "answer": 0,
+                        "explanation": "In 1739, Nadir Shah, the ruler of Iran, sacked and plundered the city of Delhi and took away immense amounts of wealth."
+                    },
+                    {
+                        "question": "Following Nadir Shah's invasion, who invaded north India five times between 1748 and 1761?",
+                        "options": [
+                            "Ahmad Shah Abdali",
+                            "Genghis Khan",
+                            "Timur",
+                            "Babur"
+                        ],
+                        "answer": 0,
+                        "explanation": "This invasion was followed by a series of plundering raids by the Afghan ruler Ahmad Shah Abdali, who invaded north India five times between 1748 and 1761."
+                    },
+                    {
+                        "question": "Awadh, Bengal and Hyderabad were the most important states to emerge from the decline of the Mughal Empire. Who founded the state of Awadh?",
+                        "options": [
+                            "Burhan-ul-Mulk Sa‘adat Khan",
+                            "Murshid Quli Khan",
+                            "Asaf Jah",
+                            "Alivardi Khan"
+                        ],
+                        "answer": 0,
+                        "explanation": "Burhan-ul-Mulk Sa'adat Khan was appointed subadar of Awadh in 1722 and founded a state which was one of the most important to emerge out of the break-up of the Mughal Empire."
+                    },
+                    {
+                        "question": "Who was the founder of the state of Hyderabad?",
+                        "options": [
+                            "Nizam-ul-Mulk Asaf Jah",
+                            "Sa'adat Khan",
+                            "Murshid Quli Khan",
+                            "Safdar Jung"
+                        ],
+                        "answer": 0,
+                        "explanation": "Nizam-ul-Mulk Asaf Jah, the founder of Hyderabad state, was one of the most powerful members at the court of the Mughal Emperor Farrukh Siyar."
+                    },
+                    {
+                        "question": "To reduce Mughal influence in Bengal, Murshid Quli Khan transferred all Mughal jagirdars to:",
+                        "options": [
+                            "Orissa",
+                            "Delhi",
+                            "Punjab",
+                            "Gujarat"
+                        ],
+                        "answer": 0,
+                        "explanation": "Like the rulers of Hyderabad and Awadh, he also commanded the revenue administration of the state. In an effort to reduce Mughal influence in Bengal he transferred all Mughal jagirdars to Orissa and ordered a major reassessment of the revenues of Bengal."
+                    },
+                    {
+                        "question": "In the new states of Awadh, Bengal, and Hyderabad, revenue was often collected by contracting with:",
+                        "options": [
+                            "Revenue farmers (ijaradars)",
+                            "Only Mughal officers",
+                            "Foreign merchants",
+                            "Military commanders only"
+                        ],
+                        "answer": 0,
+                        "explanation": "They contracted with revenue farmers for the collection of revenue. The practice of ijaradari... gradually spread all over India..."
+                    },
+                    {
+                        "question": "The state of Awadh depended on local bankers and 'mahajans' for loans. What right was given to the highest bidders in the revenue system?",
+                        "options": [
+                            "The right to collect the tax (ijara system)",
+                            "The right to rule the province",
+                            "The right to mint coins",
+                            "The right to maintain a personal army"
+                        ],
+                        "answer": 0,
+                        "explanation": "The state sold the right to collect tax to the highest bidders. These 'revenue farmers' (ijaradars) agreed to pay the state a fixed sum of money."
+                    },
+                    {
+                        "question": "Many Rajput kings, particularly those of Amber and Jodhpur, had served the Mughals well. In exchange, they were permitted to enjoy considerable autonomy in their:",
+                        "options": [
+                            "Watan jagirs",
+                            "Subas",
+                            "Iqtas",
+                            "Khalsa lands"
+                        ],
+                        "answer": 0,
+                        "explanation": "Many Rajput kings, particularly those of Amber and Jodhpur, had served under the Mughals with distinction. In exchange, they were permitted to enjoy considerable autonomy in their watan jagirs."
+                    },
+                    {
+                        "question": "Who founded the new capital at Jaipur and was given the subadari of Agra in 1722?",
+                        "options": [
+                            "Sawai Raja Jai Singh of Amber",
+                            "Raja Ajit Singh of Jodhpur",
+                            "Maharana Pratap",
+                            "Banda Bahadur"
+                        ],
+                        "answer": 0,
+                        "explanation": "Sawai Raja Jai Singh of Amber was governor of Malwa... He founded his new capital at Jaipur and was given the subadari of Agra in 1722."
+                    },
+                    {
+                        "question": "Guru Gobind Singh fought several battles against the Rajput and Mughal rulers. What was the organization of the Sikhs called, instituted in 1699?",
+                        "options": [
+                            "The Khalsa",
+                            "The Dal Khalsa",
+                            "The Misls",
+                            "The Rakhi"
+                        ],
+                        "answer": 0,
+                        "explanation": "After the institution of the Khalsa in 1699, the community got organized... Guru Gobind Singh had inspired the Khalsa with the belief that their destiny was to rule (raj karega khalsa)."
+                    },
+                    {
+                        "question": "Under whose leadership did the Sikhs rise in revolt after Guru Gobind Singh's death?",
+                        "options": [
+                            "Banda Bahadur",
+                            "Ranjit Singh",
+                            "Kapur Singh",
+                            "Jassa Singh Ahluwalia"
+                        ],
+                        "answer": 0,
+                        "explanation": "After his death in 1708, the Khalsa rose in revolt against the Mughal authority under Banda Bahadur's leadership, declared their sovereign rule by striking coins..."
+                    },
+                    {
+                        "question": "In the eighteenth century, the Sikhs organized themselves into a number of bands called jathas, and later:",
+                        "options": [
+                            "Misls",
+                            "Dal Khalsa",
+                            "Sardars",
+                            "Rakhi"
+                        ],
+                        "answer": 0,
+                        "explanation": "In the eighteenth century, the Sikhs organized themselves into a number of bands called jathas, and later misls."
+                    },
+                    {
+                        "question": "The grand army of the Sikhs (the combined forces of all misls) used to meet at Amritsar at the time of Baisakhi and Diwali to:",
+                        "options": [
+                            "Take collective decisions known as 'resolutions of the Guru' (gurmatas)",
+                            "Appoint a new Guru",
+                            "Surrender to the Mughals",
+                            "Count their wealth"
+                        ],
+                        "answer": 0,
+                        "explanation": "The combined forces were known as the grand army (dal khalsa). The entire body used to meet at Amritsar at the time of Baisakhi and Diwali to take collective decisions known as 'resolutions of the Guru (gurmatas)'."
+                    },
+                    {
+                        "question": "What was the 'rakhi' system introduced by the Sikhs?",
+                        "options": [
+                            "A system offering protection to cultivators on the payment of a tax of 20 per cent of the produce",
+                            "A tying of thread between brothers and sisters",
+                            "A tax on trade",
+                            "A military training program"
+                        ],
+                        "answer": 0,
+                        "explanation": "A system called rakhi was introduced, offering protection to cultivators on the payment of a tax of 20 per cent of the produce."
+                    },
+                    {
+                        "question": "Who reunited the Sikh groups and established his capital at Lahore in 1799?",
+                        "options": [
+                            "Maharaja Ranjit Singh",
+                            "Banda Bahadur",
+                            "Guru Gobind Singh",
+                            "Ahmad Shah Abdali"
+                        ],
+                        "answer": 0,
+                        "explanation": "Maharaja Ranjit Singh reunited these groups and established his capital at Lahore in 1799."
+                    },
+                    {
+                        "question": "Who carved out a stable Maratha kingdom with the support of powerful warrior families (deshmukhs)?",
+                        "options": [
+                            "Shivaji",
+                            "Baji Rao I",
+                            "Balaji Vishwanath",
+                            "Sambhaji"
+                        ],
+                        "answer": 0,
+                        "explanation": "Shivaji (1627-1680) carved out a stable kingdom with the support of powerful warrior families (deshmukhs). Groups of highly mobile, peasant-pastoralists (kunbis) provided the backbone of the Maratha army."
+                    },
+                    {
+                        "question": "After Shivaji's death, effective power in the Maratha state was wielded by a family of Chitpavan Brahmanas who served Shivaji's successors as:",
+                        "options": [
+                            "Peshwa (or principal minister)",
+                            "Subadar",
+                            "Faujdar",
+                            "Deshmukh"
+                        ],
+                        "answer": 0,
+                        "explanation": "After Shivaji's death, effective power in the Maratha state was wielded by a family of Chitpavan Brahmanas who served Shivaji's successors as Peshwa (or principal minister). Poona became the capital of the Maratha kingdom."
+                    },
+                    {
+                        "question": "What was 'Chauth' in the Maratha revenue system?",
+                        "options": [
+                            "25 per cent of the land revenue claimed by zamindars, which the Marathas collected in the Deccan",
+                            "A tax of 9-10 percent of land revenue",
+                            "A tax on marriage",
+                            "A toll tax for travelers"
+                        ],
+                        "answer": 0,
+                        "explanation": "Chauth was 25 per cent of the land revenue claimed by zamindars. In the Deccan this was collected by the Marathas."
+                    },
+                    {
+                        "question": "What was 'Sardeshmukhi'?",
+                        "options": [
+                            "9-10 per cent of the land revenue paid to the head revenue collector in the Deccan by the Marathas",
+                            "25 per cent of the land revenue",
+                            "A tax on trade",
+                            "A payment to the Peshwa"
+                        ],
+                        "answer": 0,
+                        "explanation": "Sardeshmukhi was 9-10 per cent of the land revenue paid to the head revenue collector in the Deccan."
+                    },
+                    {
+                        "question": "The Maratha empire was not just militaristic; they developed an effective administrative system. Their revenue demands were:",
+                        "options": [
+                            "Adapted to local conditions and agricultural improvements",
+                            "Looted without any system",
+                            "Fixed centrally across all of India",
+                            "Never collected from peasants"
+                        ],
+                        "answer": 0,
+                        "explanation": "Once conquest had been completed and Maratha rule was secure, revenue demands were gradually introduced taking local conditions into account."
+                    },
+                    {
+                        "question": "Who were the Jats?",
+                        "options": [
+                            "Prosperous agriculturists who consolidated their power around Delhi and Agra",
+                            "A nomadic trading tribe associated with Banjaras",
+                            "A group of Persian nobles",
+                            "Tribals of Gondwana"
+                        ],
+                        "answer": 0,
+                        "explanation": "Like the other states the Jats consolidated their power during the late seventeenth and eighteenth-centuries. Under their leader, Churaman, they acquired control over territories situated to the west of the city of Delhi... The Jats were prosperous agriculturists..."
+                    },
+                    {
+                        "question": "Under whose leadership did the kingdom of Bharatpur emerge as a strong Jat state?",
+                        "options": [
+                            "Suraj Mal",
+                            "Churaman",
+                            "Badan Singh",
+                            "Jawahir Shah"
+                        ],
+                        "answer": 0,
+                        "explanation": "Under Suraj Mal the kingdom of Bharatpur emerged as a strong state. When Nadir Shah sacked Delhi in 1739, many of the city's notables took refuge there."
+                    }
+                ]
+            }
+        }
     }
 };
